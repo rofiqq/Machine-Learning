@@ -1,0 +1,215 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 11 20:06:31 2019
+
+@author: saksake
+"""
+
+from sklearn.datasets import load_boston
+import numpy as np
+import matplotlib.pyplot as plt
+
+def datasets() :
+    # LOAD BOSTON HOUSING DATASET
+    boston = load_boston()
+    
+    # MAKE FEATURE DICTIONARY
+    all_features = {}
+    for i in range(len(boston.feature_names)):
+        key = str(boston.feature_names[i])
+        all_features[key] = boston.data[:,i]
+    
+    all_features['CHAS'] = np.int64(all_features['CHAS'])
+    all_features['CHAS'] = np.asarray([str(x) for x in all_features['CHAS']])
+    
+    # ADD TARGET DICTIONARY
+    all_features['MEDV'] = boston.target
+    return all_features
+
+def splitdict(feature_dict, train_portion, label_key) :
+    train_feature, train_label = {}, {}
+    key = list(feature_dict.keys())
+    ndata = len(feature_dict[key[0]])
+    train_n = int(ndata*train_portion)
+    idxs = np.array(range(ndata))
+    np.random.shuffle(idxs)
+    
+    train_idx = idxs[:train_n]
+    test_idx = idxs[train_n:]
+    for key in feature_dict :
+        if key == label_key :
+            train_label[key] = {}
+            train_label[key] = np.array(feature_dict[key])[train_idx]
+        else :
+            train_feature[key] = {}
+            train_feature[key] = np.array(feature_dict[key])[train_idx]       
+            
+    test_feature, test_label = {}, {}
+    for key in feature_dict :
+        if key == label_key :
+            test_label[key] = {}
+            test_label[key] = np.array(feature_dict[key])[test_idx]
+        else :
+            test_feature[key] = {}
+            test_feature[key] = np.array(feature_dict[key])[test_idx]
+                    
+    return train_feature, train_label, test_feature, test_label
+
+
+use_feature_name = [
+        'CRIM',      # per capita crime rate by town
+        'ZN',        # proportion of residential land zoned for lots over 25,000 sq.ft.
+        'INDUS',     # proportion of non-retail business acres per town
+        'CHAS',      # Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+        'NOX',       # nitric oxides concentration (parts per 10 million)
+        'RM',        # average number of rooms per dwelling
+        'AGE',       # proportion of owner-occupied units built prior to 1940
+        'DIS',       # weighted distances to five Boston employment centres
+        'RAD',       # index of accessibility to radial highways
+        'TAX',       # full-value property-tax rate per $10,000
+        'PTRATIO',   # pupil-teacher ratio by town
+        'B',         # 1000(Bk '0.63)^2 where Bk is the proportion of blacks by town
+        'LSTAT',     # % lower status of the population
+        'MEDV'       # Median value of owner-occupied homes in $1000's]
+        ]
+
+name_columns_category = [
+        'CHAS'       # Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+        ]
+
+name_columns_bucket = []
+
+name_columns_numeric = [
+        'CRIM',     # per capita crime rate by town
+        'ZN',       # proportion of residential land zoned for lots over 25,000 sq.ft.
+        'INDUS',    # proportion of non-retail business acres per town
+        'NOX',      # nitric oxides concentration (parts per 10 million)
+        'RM',       # average number of rooms per dwelling
+        'AGE',      # proportion of owner-occupied units built prior to 1940
+        'DIS',      # weighted distances to five Boston employment centres
+        'RAD',      # index of accessibility to radial highways
+        'TAX',      # full-value property-tax rate per $10,000
+        'PTRATIO',  # pupil-teacher ratio by town
+        'B',        # 1000(Bk '0.63)^2 where Bk is the proportion of blacks by town
+        'LSTAT',    # % lower status of the population
+        ]
+
+all_features = datasets()
+
+# CHOOSE INTEREST FEATURES FROM ALL FEATURES
+used_features = {}
+for key in all_features:
+    if key in use_feature_name :
+        used_features[key] = all_features[key]
+
+train_portion = 0.7
+label_key = 'MEDV'
+
+inp_train_feature, inp_train_label, inp_test_feature, inp_test_label = splitdict(feature_dict = used_features, 
+                                                                 train_portion = train_portion, 
+                                                                 label_key = label_key)
+
+
+import tensorflow as tf
+
+# MAKE INPUT FUNCTION
+# TRAIN DATA
+input_fn_train = tf.estimator.inputs.numpy_input_fn(
+    x = inp_train_feature, 
+    y = inp_train_label[label_key], 
+    shuffle=True, 
+    batch_size=32, 
+    num_epochs=None
+)
+
+# TEST DATA
+input_fn_test = tf.estimator.inputs.numpy_input_fn(
+    x = inp_test_feature, 
+    y = inp_test_label[label_key], 
+    shuffle=False, 
+    batch_size=32, 
+    num_epochs=1
+)
+
+# Define feature columns.
+feature_columns_numeric, feature_columns_category, feature_columns_bucket = [], [], []
+for key in inp_train_feature :
+    # Define numeric feature columns.
+    if key in name_columns_numeric :
+        feature_columns_numeric.append(tf.feature_column.numeric_column(key))
+        
+    # Define categorycal feature columns.
+    elif key in name_columns_category :
+        uniq = (np.unique(inp_train_feature[key])).tolist()
+        
+        cat_column = tf.feature_column.categorical_column_with_vocabulary_list(key = key,
+                                                                          vocabulary_list = uniq)
+        
+        embed_column = tf.feature_column.embedding_column(
+                        categorical_column=cat_column,
+                        dimension=len(uniq)
+                        )
+        feature_columns_category.append(embed_column)
+        
+    # Define bucket feature columns.
+    elif key in name_columns_bucket :
+        numeric_column = tf.feature_column.numeric_column(key)
+
+        # make bucket boundaries
+        arr = np.linspace(min(inp_train_feature[key]), max(inp_train_feature[key]), 100)
+        n_bucket = 3
+        q = 1./(n_bucket+1.)
+        boundaries = []
+        for i in range(n_bucket):
+            boundaries.append(np.quantile(arr, q*(i+1)))
+            
+        # Then, bucketize the numeric column on the years 1960, 1980, and 2000.
+        bucketized_feature_column = tf.feature_column.bucketized_column(
+            source_column = numeric_column,
+            boundaries = boundaries)
+        
+        feature_columns_bucket.append(bucketized_feature_column)
+        
+feature_columns = feature_columns_numeric + feature_columns_category + feature_columns_bucket
+
+# DEFINE ESTIMATOR
+estimator= tf.estimator.DNNRegressor(
+        feature_columns = feature_columns,
+        
+        # Two hidden layers
+        hidden_units=[256, 128],
+        
+        optimizer='Adagrad', #'Adagrad', 'Adam', 'Ftrl', 'RMSProp', 'SGD'
+        
+        activation_fn=tf.nn.relu, # relu. tanh, sigmoid
+        
+        # The model must choose between 3 classes.
+        model_dir = 'BostonHousing')
+
+# TRAIN MODEL
+estimator.train(input_fn=input_fn_train, steps=5000)
+
+# EVALUATE MODEL
+print('-------------------------------------')
+evaluate = estimator.evaluate(input_fn = input_fn_test)
+print('-------------------------------------')
+
+# PREDICT
+pred = list(estimator.predict(input_fn = input_fn_test))
+
+# VISUALIZE TESTING DAN PREDICTED
+y_pred = [x['predictions'][0] for x in pred]
+
+price_real = inp_test_label[label_key]
+price_predict = y_pred
+delta = abs(price_real - price_predict)
+mean = np.linspace(np.mean(delta), np.mean(delta), len(delta))
+std = np.linspace(np.std(delta), np.std(delta), len(delta))
+
+
+plt.figure()
+plt.plot(price_real)
+plt.plot(price_predict)
+plt.grid()
+plt.legend(['Real', 'Predict'])
+plt.ylabel(label_key)
