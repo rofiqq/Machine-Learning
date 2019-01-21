@@ -64,6 +64,7 @@ for bucket_info in name_columns_bucket :
     buckets = list(bucket_.unique())
     for bucket in buckets:
         dataset[bucket] = (bucket_ == bucket)*1.0
+    dataset.pop(bucket_info[0])
         
 sns_plot = sns.pairplot(dataset[name_columns_numeric],  diag_kind="kde")
 sns_plot.savefig("dataset.png")
@@ -75,10 +76,10 @@ plt.close()
 dataset['minimum_nights'] = np.log10(dataset['minimum_nights'])
 
 dataset['number_of_reviews'] = np.log10(dataset['number_of_reviews'])
-dataset.loc[np.isinf(dataset['number_of_reviews'])] = 0.
+dataset['number_of_reviews'][np.isinf(dataset['number_of_reviews'])] = 0.
 
 dataset['price'] = np.log10(dataset['price'])
-dataset.loc[np.isinf(dataset['price'])] = 0.
+dataset['price'][np.isinf(dataset['price'])] = 0.
 ################
 
 sns_plot = sns.pairplot(dataset[name_columns_numeric],  diag_kind="kde")
@@ -107,8 +108,8 @@ test_dataset = norm(test_dataset)
 
 def build_model():
   model = tf.keras.Sequential([
-    tf.keras.layers.Dense(64, activation=tf.nn.relu, input_shape=[len(train_dataset.keys())]),
-    tf.keras.layers.Dense(64, activation=tf.nn.relu),
+    tf.keras.layers.Dense(128, activation=tf.nn.relu, input_shape=[len(train_dataset.keys())]),
+    tf.keras.layers.Dense(256, activation=tf.nn.relu),
     tf.keras.layers.Dense(1)
   ])
 

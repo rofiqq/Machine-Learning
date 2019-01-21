@@ -116,7 +116,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 318050;So End Rm by Prudential & Back Bay;1632478;Thiago & Niles;0;South End;42.33979629;-71.0785343;Private room;99;2;266;2018-10-28;3.24;1;119
 322593;Garden Studio in South End Townhouse;1651480;Edward;0;South End;42.34348781;-71.07680165;Entire home/apt;197;3;354;2018-11-12;5.15;5;26
 332225;Beautiful house w/ Hot Tub, Parking & Yard!;1693497;Ken;0;Jamaica Plain;42.29128816;-71.11396006;Entire home/apt;149;2;46;2017-08-20;0.62;1;0
-336946;Sweet, Solar, Garden Apartment;1713739;Andr√©e;0;Jamaica Plain;42.28825811;-71.11306692;Entire home/apt;145;3;184;2018-10-23;3.31;1;123
+336946;Sweet, Solar, Garden Apartment;1713739;AndrÈe;0;Jamaica Plain;42.28825811;-71.11306692;Entire home/apt;145;3;184;2018-10-23;3.31;1;123
 349347;Experience Past|Enjoy Present|South End Studio #2;1444340;Will;0;Roxbury;42.3382399;-71.08171734;Entire home/apt;167;2;87;2018-10-22;1.1;37;40
 349409;Family Home in Great Area;1770277;Genevieve;0;Jamaica Plain;42.32442581;-71.10651505;Entire home/apt;250;5;5;2015-08-24;0.07;1;0
 369880;North End Boston Studio Condo;1683708;Carlos And Cheryl;0;North End;42.36609014;-71.05255465;Entire home/apt;155;5;34;2018-09-16;0.67;2;2
@@ -425,7 +425,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 3060038;Stunning room in hipster town;15575274;Sa;0;Brighton;42.34736894;-71.13824564;Private room;60;1;53;2018-08-18;1.05;4;16
 3068453;Large Studio in Theater District;2356643;Voyage;0;Downtown;42.35187963;-71.06418053;Entire home/apt;175;2;163;2018-11-01;3.02;11;46
 3094942;Cozy room close to Downtown!;15695135;Bryan;0;Dorchester;42.31911828;-71.0574541;Private room;60;2;10;2015-07-02;0.19;1;0
-3129309;¬§ Bright, Modern & Chic Suite | Amazing Location!;3637081;Jason Or Jose;0;North End;42.36570948;-71.05560298;Entire home/apt;125;1;346;2018-11-03;6.39;6;355
+3129309;§ Bright, Modern & Chic Suite | Amazing Location!;3637081;Jason Or Jose;0;North End;42.36570948;-71.05560298;Entire home/apt;125;1;346;2018-11-03;6.39;6;355
 3136460;Sunny, renovated Theater District;26988;Anne;0;Chinatown;42.350703;-71.06192283;Entire home/apt;135;180;0;0;0;13;184
 3164650;2bd APT 20min from Downtown Boston;16052189;Jonathan;0;Hyde Park;42.23596855;-71.13151374;Entire home/apt;91;3;28;2018-10-31;0.54;8;309
 3168897;Subway & buses nearby. Convenient!;9283916;Alex;0;Brighton;42.34959624;-71.14010024;Private room;80;3;0;0;0;2;230
@@ -1071,7 +1071,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 7920759;Beacon Hill- 2br, 2 bath Personal Home;41766550;Mike;0;Beacon Hill;42.3583459;-71.06692804;Entire home/apt;300;2;23;2018-10-21;0.81;1;48
 7921649;The Rolls Royce Room near Harvard Square;26956083;Todd;0;Brighton;42.35964214;-71.1405689;Private room;71;2;92;2018-08-31;2.4;40;0
 7927765;Andrew Sq Room Close to T&Shops;18479599;Agnieszka;0;Dorchester;42.32426545;-71.05963204;Private room;110;7;4;2017-04-01;0.13;8;0
-7933149;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34304929;-71.05566569;Private room;144;60;23;2018-11-03;0.59;87;1
+7933149;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34304929;-71.05566569;Private room;144;60;23;2018-11-03;0.59;87;1
 7934491;A Very Large Room - Beige Room;18479599;Agnieszka;0;Dorchester;42.32485325;-71.05936431;Private room;160;3;1;2016-10-28;0.04;8;243
 7939556;Andrew Sq - Quiet Yellow Room;18479599;Agnieszka;0;Dorchester;42.32586082;-71.05796514;Private room;135;5;1;2015-10-02;0.03;8;6
 7949859;A Very Large Room- Great for Couple;18479599;Agnieszka;0;Dorchester;42.32455674;-71.05983147;Private room;125;1;5;2018-06-11;0.16;8;1
@@ -1305,7 +1305,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 9494212;Spacious Bedroom in Cozy Home!;15583990;Natalia;0;Dorchester;42.28923801;-71.0615172;Private room;64;1;154;2018-10-21;4.24;6;361
 9494511;Cozy Room in Large Home!;15583990;Natalia;0;Dorchester;42.28880694;-71.06140756;Private room;59;1;144;2018-11-01;3.95;6;351
 9494772;Artsy Luxury Room next to MIT;28749942;Renata;0;West End;42.36249863;-71.07071372;Private room;99;1;107;2018-11-04;2.94;12;150
-9507164;WB Quarters‚Ñ¢ by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34331686;-71.05738385;Private room;144;60;3;2017-12-30;0.1;87;109
+9507164;WB Quartersô by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34331686;-71.05738385;Private room;144;60;3;2017-12-30;0.1;87;109
 9508975;South End Charm;21737209;Andrea;0;South End;42.33865083;-71.0705896;Entire home/apt;300;2;1;2016-06-05;0.03;1;0
 9531326;Sunny, Clean & Cute 1BD Near Aiport;1229497;Laura;0;East Boston;42.38982827;-71.0051918;Entire home/apt;72;4;0;0;0;1;0
 9532771;Tranquil room in great spot!;49365462;Andrea;0;Jamaica Plain;42.3232429;-71.11357115;Private room;80;1;0;0;0;1;0
@@ -1510,7 +1510,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 11470374;2 bedrooms in Boston Dutch Colonial;8267675;Robrecht;0;Dorchester;42.29268731;-71.07434934;Entire home/apt;160;4;5;2018-05-26;0.15;2;0
 11470818;Condo on QUIET street in heart of CITY w/ A/C;32870796;Jessica;0;South End;42.34197616;-71.08127587;Entire home/apt;450;5;19;2018-10-30;0.58;2;34
 11474130;Sunny room in great Boston location;60374290;Jennifer;0;Fenway;42.34808231;-71.10160119;Private room;100;1;19;2018-11-10;0.6;1;359
-11474629;Stayloom‚Äôs Historic Hideaway | near T;60375320;David;0;South Boston;42.3382824;-71.05227309;Entire home/apt;5000;1;141;2018-11-07;4.65;2;317
+11474629;Stayloomís Historic Hideaway | near T;60375320;David;0;South Boston;42.3382824;-71.05227309;Entire home/apt;5000;1;141;2018-11-07;4.65;2;317
 11488759;Cool 2 Bedroom apt @Kendall Sq!;28749942;Renata;0;West End;42.36188323;-71.06883782;Entire home/apt;149;1;45;2018-04-26;1.49;12;74
 11489064;Ensuite Private Room @Kendall/MIT;28749942;Renata;0;West End;42.36158157;-71.06925289;Private room;99;1;61;2018-11-05;2.06;12;76
 11489218;Nice Room +Bathroom @Kendall/MIT;28749942;Renata;0;West End;42.36229913;-71.06993436;Private room;99;1;64;2018-11-05;2.15;12;161
@@ -1844,7 +1844,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 13577929;Beautiful room in Brighton;78345234;Yeana;0;Brighton;42.34519238;-71.14053055;Private room;200;1;0;0;0;1;0
 13585624;Tree-lined Charlestown|Historic|2BR 1BA;814298;Brent;0;Charlestown;42.37499915;-71.05777501;Entire home/apt;250;2;25;2018-10-26;0.88;87;56
 13586128;Penthouse Duplex|Boston's Most Desirable|3BR 1.5BA;1444340;Will;0;Charlestown;42.37465423;-71.05771054;Entire home/apt;315;2;50;2018-11-03;1.75;37;66
-13586491;Modern Quarters‚Ñ¢ by STRB|Private Room Shared BA;814298;Brent;0;South Boston;42.33605903;-71.04592438;Private room;95;90;9;2018-10-01;0.31;87;364
+13586491;Modern Quartersô by STRB|Private Room Shared BA;814298;Brent;0;South Boston;42.33605903;-71.04592438;Private room;95;90;9;2018-10-01;0.31;87;364
 13588854;Gorgeous Private BR in 2BR. Close to everything!;78483331;Bre;0;Brighton;42.34682699;-71.14617751;Private room;65;60;0;0;0;1;319
 13590412;Hot Pad for your trip to Beantown;78508229;Chloe;0;Allston;42.34934248;-71.12908093;Entire home/apt;100;1;80;2018-09-18;2.77;3;239
 13594886;Modern Guest Room, Private Bath near airport/city;5997103;Andrea And Tivan;0;East Boston;42.36849763;-71.0337061;Private room;95;1;334;2018-11-08;11.56;2;162
@@ -1855,12 +1855,12 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 13614982;Adorable 1Bd Apt in Busy Back Bay;58356283;Sophia;0;Back Bay;42.34974875;-71.0785676;Entire home/apt;225;1;18;2017-05-27;0.63;1;0
 13621476;Sunny and Spacious in the heart of Hyde Square;39949128;Daniel;0;Jamaica Plain;42.32191936;-71.11047179;Private room;95;1;1;2016-07-01;0.03;1;0
 13624929;Private Room in 1st floor apartment: Brighton, MA;18396057;Joshua;0;Brighton;42.34424342;-71.15545336;Private room;79;1;5;2016-12-31;0.18;1;365
-13636659;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33615856;-71.04535763;Private room;105;2;6;2017-06-25;0.24;37;262
-13640138;336 Centre St Boston!;55958506;No√©l;0;Jamaica Plain;42.32152084;-71.10741009;Private room;29;2;5;2016-07-31;0.17;1;0
+13636659;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33615856;-71.04535763;Private room;105;2;6;2017-06-25;0.24;37;262
+13640138;336 Centre St Boston!;55958506;NoÈl;0;Jamaica Plain;42.32152084;-71.10741009;Private room;29;2;5;2016-07-31;0.17;1;0
 13642024;Private bed/bath in heart of Southie!;51849764;Brendan;0;South Boston;42.33214299;-71.04048895;Private room;150;1;1;2016-07-22;0.04;2;0
 13642260;One bedroom apartment with a parking spot;61145575;Anais;0;Brighton;42.34013099;-71.15834332;Entire home/apt;95;3;14;2018-04-02;0.48;1;0
 13650313;Massachusetts Ave, Lux 1 Bd Back Bay area;22541573;Ken;0;Fenway;42.34388391;-71.08735625;Entire home/apt;174;30;4;2018-06-10;0.14;17;358
-13652374;Private Room near Forest Hills T Stop;27860683;An√∫;0;Jamaica Plain;42.29763812;-71.11399252;Private room;27;1;0;0;0;1;0
+13652374;Private Room near Forest Hills T Stop;27860683;An˙;0;Jamaica Plain;42.29763812;-71.11399252;Private room;27;1;0;0;0;1;0
 13652639;Chic 3BR in Lower Roxbury  by Sonder;12243051;Sonder;0;Roxbury;42.33565944;-71.0852038;Entire home/apt;201;2;20;2018-10-15;0.71;323;170
 13652746;[1852-1NH]Lux 1BR - Downtown Boston;25188;Seamless;0;Downtown;42.35102339;-71.06379303;Entire home/apt;259;3;5;2016-10-25;0.19;66;89
 13653016;Classic 2BR in Lower Roxbury by Sonder;12243051;Sonder;0;Roxbury;42.33638943;-71.08660455;Entire home/apt;209;2;20;2018-09-28;0.72;323;65
@@ -2116,7 +2116,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 14924831;New Construction Comfort, Easy To Get Everywhere;93820834;Maria;0;Charlestown;42.38192063;-71.06883694;Private room;190;2;16;2018-10-22;0.62;3;88
 14927372;Rambler Road Hideaway;5352306;Louise;0;Jamaica Plain;42.30567455;-71.12569568;Entire home/apt;200;30;0;0;0;1;0
 14928081;Rozinante - Classic 59 Foot Sailboat;92691757;Melissa;0;Charlestown;42.37014655;-71.06057405;Entire home/apt;307;2;3;2018-09-21;0.21;6;184
-14928666;Pied-√†-Terre on The Hill;11709426;Hunter;0;Beacon Hill;42.35918264;-71.06422315;Entire home/apt;140;3;3;2017-07-04;0.13;1;0
+14928666;Pied-‡-Terre on The Hill;11709426;Hunter;0;Beacon Hill;42.35918264;-71.06422315;Entire home/apt;140;3;3;2017-07-04;0.13;1;0
 14935978;Entire updated apartment Brighton;93948402;Jerry;0;Brighton;42.35204296;-71.16428477;Entire home/apt;125;1;64;2018-10-26;3.19;1;171
 14936017;?SPECTACULAR CONDO? minutes from downtown!;90606566;Bridget;0;East Boston;42.36804468;-71.03820294;Entire home/apt;60;2;131;2018-11-12;4.94;3;44
 14943350;219 on the Ocean with Private Bath;72139831;Robin;0;Dorchester;42.3090275;-71.04681199;Private room;97;1;120;2018-11-07;4.54;4;314
@@ -2534,7 +2534,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 17039358;Garden Level|Brick Paved Terrace|Back Bay|2BR 1BA;814298;Brent;0;Back Bay;42.3516731;-71.08284221;Entire home/apt;250;2;38;2018-10-07;1.83;87;0
 17045948;Amazing apartment in the heart of South Boston;13916402;Daniel;0;South Boston;42.33052086;-71.04666451;Entire home/apt;149;4;1;2017-03-13;0.05;1;0
 17063804;Jacques & Smriti's large bright room by JFK-UMASS;57812241;Alexia;0;Dorchester;42.31837726;-71.05671457;Private room;75;6;5;2018-05-14;0.27;8;269
-17075037;Thanksgiving Fun- 4 mil to D-Town ‚Ä¢FreePk‚Ä¢steps2T;25203946;Eder;0;Dorchester;42.30933694;-71.06340986;Entire home/apt;216;2;49;2018-11-05;2.27;16;360
+17075037;Thanksgiving Fun- 4 mil to D-Town ïFreePkïsteps2T;25203946;Eder;0;Dorchester;42.30933694;-71.06340986;Entire home/apt;216;2;49;2018-11-05;2.27;16;360
 17107742;Beautiful Back Bay Penthouse;114866574;Linda;0;Back Bay;42.35179153;-71.08370353;Entire home/apt;150;3;3;2018-11-03;0.84;1;0
 17134180;Boston - Beacon Hill Apartment;115175098;Alex;0;Beacon Hill;42.35861076;-71.06913324;Entire home/apt;650;6;0;0;0;1;358
 17138041;Stayloom's Downtown Destination | near Back Bay;10850877;Franklin;0;South End;42.3477139;-71.07194297;Entire home/apt;5000;1;108;2018-11-13;5.03;5;307
@@ -2657,11 +2657,11 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 17686031;?? AIRBNB SUMMER RENTAL;25938928;Ricardo;0;Allston;42.35223462;-71.13091169;Entire home/apt;50;90;0;0;0;10;243
 17690222;Charming prime Brighton Studio;40813622;Alessandro;0;Brighton;42.3424403;-71.14700821;Entire home/apt;100;70;7;2018-05-04;0.37;1;237
 17700561;Spacious SoEnd Condo w/Private Deck;20405174;Cindy;0;South End;42.33799865;-71.0750004;Entire home/apt;149;2;23;2018-06-10;1.19;1;75
-17701434;Stayloom‚Äôs Sleek, Stylish Place | near South End, T;42431392;Frank;0;Roxbury;42.32863049;-71.0890828;Entire home/apt;5000;1;62;2018-11-16;3.13;7;338
+17701434;Stayloomís Sleek, Stylish Place | near South End, T;42431392;Frank;0;Roxbury;42.32863049;-71.0890828;Entire home/apt;5000;1;62;2018-11-16;3.13;7;338
 17704067;Great Location for your stay!;16186589;Marie;0;Dorchester;42.30826363;-71.07034203;Private room;30;30;5;2018-08-28;0.3;25;241
 17729574;Lux 1 Bedroom near Charles St w/gym & WiFi;9419684;Mike;0;West End;42.36496718;-71.06693818;Entire home/apt;217;7;1;2017-10-04;0.07;132;101
 17734408;Heart of Boston's Back Bay;18920866;Jessica;0;Back Bay;42.35406593;-71.07582495;Entire home/apt;275;2;34;2018-10-25;1.78;1;349
-17744380;Stayloom‚Äôs Refined Oasis | near South End;42431392;Frank;0;Roxbury;42.33031233;-71.08930625;Entire home/apt;5000;1;77;2018-11-11;3.8;7;330
+17744380;Stayloomís Refined Oasis | near South End;42431392;Frank;0;Roxbury;42.33031233;-71.08930625;Entire home/apt;5000;1;77;2018-11-11;3.8;7;330
 17745620;Stayloom's Oversized Oasis | near South End;42431392;Frank;0;Roxbury;42.32839575;-71.08892961;Entire home/apt;5000;1;11;2018-11-07;0.68;7;325
 17778115;Amazing apartment, Great Location;121396397;Kfir;0;Back Bay;42.3518437;-71.08585337;Entire home/apt;180;5;0;0;0;1;0
 17795007;Sunny Spacious South End 2 Bedroom!;3715192;Lauren;0;Roxbury;42.3389634;-71.08297457;Entire home/apt;200;2;69;2018-11-10;3.54;1;315
@@ -2795,7 +2795,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 18462031;Marriott Boston Custom House (Club Pulse);77993990;David;0;Downtown;42.35884402;-71.05300064;Private room;350;4;2;2017-10-03;0.14;1;0
 18472852;Sunny single room, near Harvard ave.;128124095;Ethan;0;Allston;42.34934361;-71.13435953;Private room;30;7;2;2017-06-02;0.11;1;0
 18473519;Shared Space for the Social Traveler 4.51L;78962454;Micah;0;Roxbury;42.31850537;-71.0813677;Shared room;20;1;30;2018-11-12;1.6;41;20
-18485290;STUNNING Apt byBU 2BR/1FULL Bath +1PrivateParking!;85678907;Jes√∫s & Otto;0;Allston;42.34762206;-71.136988;Entire home/apt;155;2;66;2018-10-06;3.59;7;311
+18485290;STUNNING Apt byBU 2BR/1FULL Bath +1PrivateParking!;85678907;Jes˙s & Otto;0;Allston;42.34762206;-71.136988;Entire home/apt;155;2;66;2018-10-06;3.59;7;311
 18488815;Nice Room close Harvard Square Private - No Share;116104711;Keith;0;Allston;42.36046951;-71.1305107;Private room;78;1;69;2018-10-26;3.7;2;15
 18488956;Newly Renovated Harborside Charmer - Near Airport;34536517;Jess;0;East Boston;42.36444534;-71.03234202;Entire home/apt;150;2;163;2018-11-07;9.84;1;294
 18489417;Great Location;119352334;Thuy;0;Dorchester;42.28608185;-71.0649343;Private room;67;1;28;2018-10-29;1.53;3;365
@@ -2823,7 +2823,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 18544831;Lux 2 Bedroom by Fenway with washer/dryer & WiFi;9419684;Mike;0;Fenway;42.3431888;-71.10239958;Entire home/apt;299;3;0;0;0;132;40
 18544883;Modern Boston 2 Bdrm Harvard/BU/BC/Boston Landing;6933825;Estee;0;Allston;42.35610328;-71.13699274;Entire home/apt;129;2;18;2017-08-27;0.99;2;0
 18546212;Modern 2BR near Financial District;94783015;Dan;0;Chinatown;42.34934539;-71.06136807;Entire home/apt;399;2;25;2018-11-04;1.38;3;356
-18550644;Stayloom‚Äôs Palatial Luxury Home | Private deck, near T;4776690;Dan;0;Dorchester;42.32066691;-71.05662178;Entire home/apt;5000;1;64;2018-11-03;3.43;4;324
+18550644;Stayloomís Palatial Luxury Home | Private deck, near T;4776690;Dan;0;Dorchester;42.32066691;-71.05662178;Entire home/apt;5000;1;64;2018-11-03;3.43;4;324
 18557368;Boston Room 1dbl Bed + Free Roundtrip Subway Card;1672715;Mika;0;South Boston;42.33282585;-71.05673087;Private room;48;1;54;2018-11-01;3.79;1;70
 18557609;Beacon Hill 1brm - walk everywhere!;66533138;Val;0;Beacon Hill;42.36015592;-71.06909007;Entire home/apt;143;1;91;2018-10-30;4.95;6;220
 18560282;Modern Studio Apartment Near Airport & City;128851394;Mary-Ann;0;East Boston;42.37510472;-71.03733607;Entire home/apt;122;1;119;2018-11-01;8.15;2;33
@@ -2899,7 +2899,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 18810960;Comfortable, family-friendly spot near T and cafes;130963032;Peter;0;Jamaica Plain;42.31323796;-71.10701542;Entire home/apt;173;3;78;2018-11-10;4.46;1;269
 18812187;Bright & Breezy Room in Jamaica Plain;28310334;Kyle;0;Jamaica Plain;42.30466711;-71.10676674;Private room;50;3;1;2017-07-31;0.06;1;0
 18820537;#303  Boston private AC room 1 Twin bed???????;105851798;Anne;0;Dorchester;42.2969974;-71.06070587;Private room;46;1;21;2018-09-01;1.17;18;327
-18826214;Cozy 1 Bed apt in a 2 bed;1261843;Roc√≠o;0;Brighton;42.33692364;-71.14918199;Private room;70;1;0;0;0;1;0
+18826214;Cozy 1 Bed apt in a 2 bed;1261843;RocÌo;0;Brighton;42.33692364;-71.14918199;Private room;70;1;0;0;0;1;0
 18829493;Comfortable 3rd floor apartment,closed to Boston;121141886;Edgar;0;East Boston;42.38040936;-71.03236974;Entire home/apt;125;1;78;2018-11-02;12.32;1;243
 18834586;Cozy Relaxing 2 Bed 2.5 Bath Townhouse;3179912;Jen & Brandon;0;Jamaica Plain;42.30760184;-71.10414532;Entire home/apt;250;1;1;2017-10-29;0.08;2;0
 18837576;Duplex with Great City Views;131191509;Victoria;0;South Boston;42.33150908;-71.05630354;Entire home/apt;210;1;3;2017-09-03;0.19;2;0
@@ -2910,7 +2910,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 18842537;Nothing can beat the location and price;131235330;Hemant;0;Downtown;42.35798164;-71.05307615;Private room;100;1;0;0;0;1;0
 18848342;Large Bed in Gorgeous Apt Close to Transportation;131288031;Arash;0;Brighton;42.34606041;-71.1524626;Private room;130;1;8;2018-08-10;0.54;3;0
 18857626;Open condo room available;131362391;Peter;0;Jamaica Plain;42.32275663;-71.11394864;Private room;65;2;1;2017-05-29;0.06;1;0
-18858706;Shabby-Ch√≠c Condo Steps to Airport & Subway;16284736;Jordan;0;East Boston;42.37397997;-71.03305588;Entire home/apt;185;1;179;2018-11-12;9.94;5;77
+18858706;Shabby-ChÌc Condo Steps to Airport & Subway;16284736;Jordan;0;East Boston;42.37397997;-71.03305588;Entire home/apt;185;1;179;2018-11-12;9.94;5;77
 18868165;Lucky Rm 4 Near-T ???-????-2 beds AC;131456838;Eddie;0;Chinatown;42.34693757;-71.06129752;Private room;85;1;30;2018-06-29;1.67;8;354
 18873614;BnT- BnB;66359843;Brenda;0;Jamaica Plain;42.32091709;-71.11618785;Entire home/apt;140;1;178;2018-11-16;10.04;1;139
 18875451;The Sunset Room;16441460;Charles;0;Brighton;42.35478704;-71.16844891;Private room;55;1;61;2018-11-03;3.48;5;358
@@ -2955,7 +2955,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 18974032;10 Allston;106561162;Lucia;0;Allston;42.35343334;-71.13337001;Private room;60;1;27;2017-08-24;1.51;1;0
 18975041;Backbay Apartment;75630007;Rajiv;0;South End;42.34479285;-71.07622655;Entire home/apt;85;2;3;2017-08-06;0.17;1;0
 18975942;victorian Rm1 Chinatown???-????-2 beds near T;131456838;Eddie;0;Chinatown;42.34791168;-71.06086716;Private room;100;1;39;2018-09-02;2.2;8;317
-19005408;GORGEOUS APT by BU! 3BR/1Bath+ 1 Private Parking!;85678907;Jes√∫s & Otto;0;Allston;42.34744699;-71.13603231;Entire home/apt;139;2;86;2018-10-23;5.09;7;320
+19005408;GORGEOUS APT by BU! 3BR/1Bath+ 1 Private Parking!;85678907;Jes˙s & Otto;0;Allston;42.34744699;-71.13603231;Entire home/apt;139;2;86;2018-10-23;5.09;7;320
 19007014;#3 Samuel Adam neighborhood Jamaica plain Mass;132606746;Javier;0;Jamaica Plain;42.31441381;-71.10239921;Private room;65;1;46;2018-11-07;3.65;4;336
 19007419;Entire home- great location at a special price!;91851593;Joanna;0;South Boston;42.33862286;-71.02984821;Entire home/apt;180;7;3;2017-08-09;0.17;2;0
 19014867;Peaceful apt across from train stop 20m to Boston;15537747;Dennis;0;Allston;42.35278182;-71.12461071;Entire home/apt;115;4;1;2017-06-06;0.06;1;0
@@ -2999,16 +2999,16 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19113658;4B Boston Dwtn Whole 2BR Suite perfect 4 tour/biz;90527363;Haiying;0;Chinatown;42.34750167;-71.06038488;Entire home/apt;179;1;20;2018-10-11;1.25;6;228
 19115109;4A Boston Downtown Whole 2BR/4Bds Apt walk2all;90527363;Haiying;0;Chinatown;42.34777954;-71.06101294;Entire home/apt;179;1;33;2018-10-26;2.03;6;236
 19115310;Spacious 2 bedroom, 2 bathroom apartment in Boston;53555623;Cody;0;South Boston;42.3421563;-71.05681367;Entire home/apt;250;2;9;2018-11-04;1.75;1;28
-19115873;Stayloom‚Äôs Upscale Oasis | Private deck, near T;4776690;Dan;0;Dorchester;42.32272409;-71.05559322;Entire home/apt;5000;1;78;2018-11-12;4.52;4;298
+19115873;Stayloomís Upscale Oasis | Private deck, near T;4776690;Dan;0;Dorchester;42.32272409;-71.05559322;Entire home/apt;5000;1;78;2018-11-12;4.52;4;298
 19117781;1880's Boston Townhouse on Redline!;31035862;Bill / Corey;0;Dorchester;42.29338007;-71.06377902;Private room;65;1;172;2018-11-13;9.94;2;287
 19119469;Bright Spacious  Cozy and Convenient;133607885;Rhonda;0;Roxbury;42.31748967;-71.09331584;Private room;75;2;7;2018-11-04;0.48;2;0
 19121881;Huge entire 3 bedrooms unit near airport& downtown;66665179;Zhenwei;0;East Boston;42.38890636;-71.00874025;Entire home/apt;249;1;1;2017-06-25;0.06;5;0
 19123216;King /Cot 4mi to Downtown steps toT freepk;25203946;Eder;0;Dorchester;42.30993797;-71.06374649;Private room;63;2;30;2018-10-09;1.78;16;364
 19138622;19th Century Rehab |City Views|So End 1BD 1BA #4;1444340;Will;0;Roxbury;42.33801637;-71.08109022;Entire home/apt;167;2;32;2018-09-23;1.84;37;148
 19140676;Private Room 3 Min Walk to Savin Hill Subway Stop;4271667;Tianyu;0;Dorchester;42.31309318;-71.05531045;Private room;49;3;81;2018-11-11;4.64;1;350
-19141729;Stayloom‚Äôs Saltspray Escape | Beachfront;10850877;Franklin;0;South Boston;42.3299138;-71.03235239;Entire home/apt;5000;1;60;2018-11-14;3.47;5;332
+19141729;Stayloomís Saltspray Escape | Beachfront;10850877;Franklin;0;South Boston;42.3299138;-71.03235239;Entire home/apt;5000;1;60;2018-11-14;3.47;5;332
 19143327;Beautiful 1 BR Apartment #11 In Downtown Boston.;28384162;Angelina;0;Downtown;42.35109155;-71.06677667;Entire home/apt;158;2;81;2018-11-14;4.62;2;218
-19143984;Streetview- 2Beds 4mi to D-Town‚Ä¢FreePk‚Ä¢ stepstoT;25203946;Eder;0;Dorchester;42.30934518;-71.06239431;Private room;92;2;32;2018-10-04;1.82;16;364
+19143984;Streetview- 2Beds 4mi to D-TownïFreePkï stepstoT;25203946;Eder;0;Dorchester;42.30934518;-71.06239431;Private room;92;2;32;2018-10-04;1.82;16;364
 19151055;BEST LOCATION 3 BR North End's Freedom Trail;133896701;David;0;North End;42.36372734;-71.05488323;Entire home/apt;285;2;69;2018-11-05;4.34;4;85
 19153136;Luxury Apartment Bldg Next Door to Boston Commons;14015875;Beckie;0;Downtown;42.35642216;-71.0591626;Entire home/apt;189;4;2;2017-08-03;0.12;1;6
 19154786;Comfortable & Convenient ( Centrally Located).;133927887;Alex & Kat;0;Fenway;42.34568044;-71.08886957;Entire home/apt;250;2;17;2018-06-22;0.98;11;0
@@ -3075,7 +3075,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19328794;Charming and quiet apartment very close to the T;135386111;Jakub;0;Jamaica Plain;42.29900687;-71.11153391;Entire home/apt;140;2;10;2018-01-05;0.58;1;45
 19330793;Jamaica Plain apartment;57925675;Megara;0;Jamaica Plain;42.31613693;-71.11288813;Entire home/apt;75;1;14;2017-08-21;0.82;1;0
 19330844;South Boston Studio Near Downtown, Beach, & Mall;135410134;Ali;0;South Boston;42.32972446;-71.05658793;Entire home/apt;134;1;22;2017-10-15;1.31;1;0
-19330870;Stayloom‚Äôs Modern Masterpiece | near T;4776690;Dan;0;Dorchester;42.31477219;-71.05693185;Entire home/apt;5000;1;16;2018-09-09;0.94;4;293
+19330870;Stayloomís Modern Masterpiece | near T;4776690;Dan;0;Dorchester;42.31477219;-71.05693185;Entire home/apt;5000;1;16;2018-09-09;0.94;4;293
 19338355;Back Bay Comm Ave HOLIDAY spot shopping & lights;44688386;Ron;0;Back Bay;42.34948985;-71.08935655;Entire home/apt;249;2;51;2018-11-07;3.1;1;134
 19346500;Brand New Modern Apartment next to HBS;24986965;Katherine;0;Allston;42.35106451;-71.1307225;Entire home/apt;150;3;1;2017-11-05;0.08;1;0
 19347139;?Harvard Business School ? 1 Free Parking ? Studio;47584294;Kevin, Jessy, And Diego;0;Brighton;42.35490544;-71.13950309;Entire home/apt;125;2;117;2018-10-30;7.06;10;325
@@ -3088,7 +3088,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19366533;West Roxbury  step a train&bus to downtown Boston;4546050;Margarita;0;West Roxbury;42.27886521;-71.16003235;Private room;45;5;4;2018-11-03;2.07;2;364
 19373388;Classic New England apartment on MBTA Red line;116319471;Greg And Alicia;0;Dorchester;42.29182599;-71.0663647;Entire home/apt;104;1;52;2018-11-12;3.05;1;171
 19381483;Lux 1 BR in the Heart of Fenway w/WiFi;9419684;Mike;0;Fenway;42.34459839;-71.09781632;Entire home/apt;217;3;0;0;0;132;79
-19411593;Stefano and Silvia‚Äôs JFK-UMASS Boston Room;57812241;Alexia;0;Dorchester;42.31850897;-71.05763506;Private room;79;5;4;2018-07-14;0.49;8;179
+19411593;Stefano and Silviaís JFK-UMASS Boston Room;57812241;Alexia;0;Dorchester;42.31850897;-71.05763506;Private room;79;5;4;2018-07-14;0.49;8;179
 19412875;Home Away from Home!Free Street Parking!No smoking;135920429;Wendy And Juan;0;Mattapan;42.27947909;-71.09888745;Private room;48;1;77;2018-11-05;4.55;4;329
 19428084;Elegant Updates to a Classic Boston 2br w/ Parking;8829658;Anais;0;Dorchester;42.28979872;-71.05612596;Entire home/apt;176;2;66;2018-11-11;4.5;1;149
 19430067;Cozy Apartment in the Seaport/Fort Point;35738512;Will;0;South Boston Waterfront;42.34747569;-71.04943035;Entire home/apt;160;1;124;2018-10-26;7.34;2;84
@@ -3120,7 +3120,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19507998;Beautiful Studio and  Great Location;15790379;Isa;0;West End;42.36237424;-71.06865887;Entire home/apt;49;1;77;2018-09-30;4.56;5;217
 19526556;Cozy Single Occupancy;9268168;Sheila;0;Roxbury;42.32445233;-71.08580798;Private room;55;1;76;2018-11-03;4.62;1;262
 19527633;Stunning 3BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35575897;-71.06196957;Entire home/apt;630;2;25;2018-10-03;1.61;323;131
-19530176;Cozy hideout in a historical Boston neighborhood;36321245;Tom√°≈°;0;Beacon Hill;42.36071488;-71.06547608;Entire home/apt;160;7;5;2018-07-13;0.3;1;8
+19530176;Cozy hideout in a historical Boston neighborhood;36321245;Tom·ö;0;Beacon Hill;42.36071488;-71.06547608;Entire home/apt;160;7;5;2018-07-13;0.3;1;8
 19532043;Lovely 1 BR in Theater District;51058620;Regiane;0;Downtown;42.35135799;-71.06669569;Entire home/apt;189;2;38;2018-10-29;2.28;6;311
 19532898;Beautiful Spacious townhouse in Fort Hill;3707146;Mr. And Mrs.;0;Roxbury;42.32242536;-71.0905767;Entire home/apt;200;2;17;2017-12-10;1.05;2;0
 19540224;Free Parking at Newly Renovated 1 Bed Basement Unt;130680380;Jodie;0;Fenway;42.35082125;-71.09557483;Entire home/apt;175;1;108;2018-11-02;6.48;2;249
@@ -3152,8 +3152,8 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19599031;Home away from home;118883513;Darryl;0;Dorchester;42.28566715;-71.04027905;Private room;70;2;48;2018-10-28;2.94;1;335
 19602358;1 BR w/private bath, parking avail;106545415;Kevin;0;South Boston;42.33337117;-71.03264685;Private room;125;1;72;2018-11-15;4.41;4;179
 19602772;Magnificent 3-BR close to Tufts Medical Center;95459395;Bluebird;0;Chinatown;42.3488676;-71.06047462;Entire home/apt;220;11;1;2017-08-27;0.07;145;313
-19622535;IMPRESSIVE 3BR/1Bath+1PrvtParking byTheTstation!12;85678907;Jes√∫s & Otto;0;Allston;42.34681314;-71.13550488;Entire home/apt;139;2;49;2018-10-29;3.5;7;318
-19623990;CHARMING 3BR/1Bth+1PrivateParking byThe Tstation!8;85678907;Jes√∫s & Otto;0;Allston;42.34736198;-71.1352874;Entire home/apt;139;2;58;2018-11-02;4.07;7;316
+19622535;IMPRESSIVE 3BR/1Bath+1PrvtParking byTheTstation!12;85678907;Jes˙s & Otto;0;Allston;42.34681314;-71.13550488;Entire home/apt;139;2;49;2018-10-29;3.5;7;318
+19623990;CHARMING 3BR/1Bth+1PrivateParking byThe Tstation!8;85678907;Jes˙s & Otto;0;Allston;42.34736198;-71.1352874;Entire home/apt;139;2;58;2018-11-02;4.07;7;316
 19625919;Charming Private Victorian Apartment;34956509;Esther;0;Dorchester;42.28790034;-71.06385518;Entire home/apt;135;1;98;2018-10-30;5.92;1;252
 19650995;Home away from home on Washburn street #2.;66554696;Paul;0;Dorchester;42.32466503;-71.05859256;Private room;99;1;31;2018-11-11;1.91;2;169
 19653917;Modern 4BR, Boston w/Parking, BCEC, Roof Deck;17406884;Vivek;0;South Boston;42.33660656;-71.02712006;Entire home/apt;430;2;68;2018-11-05;4.16;1;308
@@ -3205,7 +3205,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 19826935;Modern & Cozy Studio in The Heart of Boston *WOW*;95459395;Bluebird;0;Jamaica Plain;42.3300354;-71.11133289;Entire home/apt;209;1;0;0;0;145;364
 19827018;Modern 2BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35747193;-71.06078073;Entire home/apt;543;2;15;2018-09-23;1.01;323;155
 19830344;Spacious Private Oasis on Quiet Street in JP;14748624;Tyler;0;Jamaica Plain;42.31855899;-71.10978073;Entire home/apt;145;1;38;2018-11-11;2.33;1;0
-19830912;Hip spot close to ctr you‚Äôll love my area room #4;139670302;Joe/Rose;0;Dorchester;42.31777922;-71.05378035;Private room;40;1;69;2018-11-11;4.22;6;82
+19830912;Hip spot close to ctr youíll love my area room #4;139670302;Joe/Rose;0;Dorchester;42.31777922;-71.05378035;Private room;40;1;69;2018-11-11;4.22;6;82
 19839113;Pool, private room, and perfect location;15575274;Sa;0;Allston;42.34662808;-71.13549932;Private room;75;1;24;2018-08-31;1.47;4;326
 19842407;Relaxing Oasis Close to Downtown Boston!;265933;Holly;0;Jamaica Plain;42.31922635;-71.11635982;Private room;75;3;3;2017-08-26;0.19;1;0
 19855550;Incredible 2BR in Brighton by Sonder;12243051;Sonder;0;Brighton;42.33958689;-71.15559009;Entire home/apt;363;2;9;2018-06-24;0.55;323;13
@@ -3413,7 +3413,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 20650467;Amazing 2BR/1BA near TD Garden by Domio;91548283;Domio;0;North End;42.36665628;-71.05574072;Entire home/apt;99;3;73;2018-11-04;5.08;45;242
 20650592;Wonderful 2BR/1BA in North End by Domio;91548283;Domio;0;North End;42.36679489;-71.05559538;Entire home/apt;99;3;50;2018-10-23;3.41;45;240
 20650593;The Historic House in the North End/Waterfront;27172259;Travis;0;North End;42.36813077;-71.05393795;Entire home/apt;995;1;74;2018-11-05;5.05;1;329
-20655696;Great 4 Large group 4mi to D-Town FreePk‚Ä¢stepstoT;25203946;Eder;0;Dorchester;42.30977903;-71.06311892;Entire home/apt;500;2;5;2018-10-28;0.78;16;364
+20655696;Great 4 Large group 4mi to D-Town FreePkïstepstoT;25203946;Eder;0;Dorchester;42.30977903;-71.06311892;Entire home/apt;500;2;5;2018-10-28;0.78;16;364
 20663083;Huge Multilevel E.Boston Brownstone 3Bed/2Bath Apt;50474139;Kat;0;East Boston;42.36841086;-71.03745013;Entire home/apt;475;1;10;2018-08-19;1;4;22
 20663729;Cozy (mid) Convenient Private bedroom by Airport;1114868;Charles;0;East Boston;42.37948252;-71.02784859;Private room;58;1;43;2018-10-31;2.92;2;89
 20673030;Whole place,safe,clean home away from home private;147910878;Yashin;0;Roslindale;42.27597958;-71.12699313;Entire home/apt;96;3;99;2018-11-01;6.86;1;264
@@ -3479,8 +3479,8 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 20849061;Cozy Penthouse Room in Heart of Historic Back Bay;25700968;Will;0;Back Bay;42.3513947;-71.08028088;Private room;99;14;44;2018-07-20;3.11;3;44
 20849944;My Home;149629129;Nadia;0;Roxbury;42.31076123;-71.08863747;Private room;75;3;0;0;0;3;0
 20858051;Marriott Custom House downtown Boston Waterfront;149106199;Ryan;0;Downtown;42.35825504;-71.05275722;Private room;199;3;1;2018-04-17;0.14;1;11
-20858430;Stayloom‚Äôs Stylish, Comfortable Luxury | Near T;149617117;Demetrios;0;Roxbury;42.33124288;-71.09201855;Entire home/apt;5000;1;31;2018-11-11;2.18;7;298
-20861260;Stayloom‚Äôs Luminous Linwood Home | near T;149617117;Demetrios;0;Roxbury;42.32913501;-71.09506593;Entire home/apt;5000;1;26;2018-10-19;1.86;7;307
+20858430;Stayloomís Stylish, Comfortable Luxury | Near T;149617117;Demetrios;0;Roxbury;42.33124288;-71.09201855;Entire home/apt;5000;1;31;2018-11-11;2.18;7;298
+20861260;Stayloomís Luminous Linwood Home | near T;149617117;Demetrios;0;Roxbury;42.32913501;-71.09506593;Entire home/apt;5000;1;26;2018-10-19;1.86;7;307
 20861300;WATER VIEWS! East Boston 3 Bdr, Walk to Blue Line;139698601;Jim;0;East Boston;42.38375927;-71.00139926;Entire home/apt;175;1;27;2018-10-29;2.07;1;174
 20862114;Stayloom's Tremendous Luxury Duplex | Near T;149617117;Demetrios;0;Roxbury;42.32916951;-71.09288095;Entire home/apt;5000;1;17;2018-10-16;1.28;7;291
 20862588;Hip convenient area close to ctr room#5;139670302;Joe/Rose;0;Dorchester;42.31664945;-71.05279542;Private room;51;1;55;2018-10-25;3.82;6;89
@@ -3655,7 +3655,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 21408163;Brand New Townhouse in historic East Boston;14199135;Sean;0;East Boston;42.38670433;-71.01062274;Private room;75;2;30;2018-11-08;2.32;1;100
 21408454;Backbay Luxury Apartment Private Living Room Space;48903690;Li-Chen;0;Fenway;42.34446072;-71.08804088;Private room;80;1;15;2018-11-13;3.06;1;17
 21409374;Lovely Loft in Downtown Crossing by Sonder;12243051;Sonder;0;Chinatown;42.35172581;-71.0616978;Entire home/apt;138;2;6;2018-08-18;0.63;323;144
-21409887;Celebrate New Year‚Äôs Eve in huge luxury apartment!;197715;Charlene;0;West End;42.36429512;-71.06351153;Entire home/apt;199;2;2;2018-06-08;0.33;2;12
+21409887;Celebrate New Yearís Eve in huge luxury apartment!;197715;Charlene;0;West End;42.36429512;-71.06351153;Entire home/apt;199;2;2;2018-06-08;0.33;2;12
 21410674;Lovely 3BR in Brighton by Sonder;12243051;Sonder;0;Brighton;42.33956796;-71.15819906;Entire home/apt;257;2;14;2018-08-11;1.11;323;14
 21411264;Newly Built 3BR Apt, Super Convenient;154342968;Kate;0;Allston;42.35492129;-71.13613162;Entire home/apt;314;1;0;0;0;5;365
 21413584;Modern One Bedroom in the Seaport;80100053;Bret;0;South Boston Waterfront;42.3475335;-71.03962696;Entire home/apt;170;2;0;0;0;1;0
@@ -3667,7 +3667,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 21428068;Master bedroom with private bath Heart of Fenway;120514355;Betty;0;Fenway;42.34354762;-71.09556959;Private room;108;2;7;2018-10-08;0.55;1;36
 21434342;Modern room on Comm ave by Greenline B stop;153963844;Kaan;0;Allston;42.35139468;-71.13095599;Private room;77;1;36;2018-08-27;2.76;1;0
 21436675;Cozy bedroom;115267785;Alexes;0;Allston;42.35842365;-71.12968982;Private room;89;1;26;2018-10-31;1.99;2;362
-21436847;Central JP‚Äîprivate 2 bdrm on quiet, wooded street;77158362;Karen;0;Jamaica Plain;42.31470512;-71.11154307;Entire home/apt;150;3;40;2018-11-11;3.45;1;37
+21436847;Central JPóprivate 2 bdrm on quiet, wooded street;77158362;Karen;0;Jamaica Plain;42.31470512;-71.11154307;Entire home/apt;150;3;40;2018-11-11;3.45;1;37
 21438537;Sleek 1BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35146025;-71.06296495;Entire home/apt;137;2;6;2018-07-03;0.47;323;178
 21438702;Stunning 1BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35168437;-71.06297547;Entire home/apt;136;2;12;2018-10-28;0.99;323;180
 21439352;3 BR, 2 baths, 2 parking in Brighton, Boston, MA;155439794;MichelleY;0;Brighton;42.35036593;-71.16607936;Entire home/apt;242;1;62;2018-11-11;5.22;7;82
@@ -3767,9 +3767,9 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 21673781;375* cozy private room in the heart of Boston;25149641;Kiki;0;Back Bay;42.3488641;-71.08996622;Private room;120;1;20;2018-10-23;1.7;24;345
 21676574;Expansive 2BR in Downtown Crossing by Sonder;12243051;Sonder;0;Chinatown;42.35149679;-71.06132842;Entire home/apt;191;2;11;2018-10-19;0.88;323;168
 21677482;Smart 2BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35163108;-71.06351229;Entire home/apt;194;2;8;2018-08-25;0.8;323;183
-21677674;Stayloom‚Äôs Trendy Tremont Retreat | near Fenway;149617117;Demetrios;0;Mission Hill;42.33185853;-71.09856731;Entire home/apt;5000;1;48;2018-11-12;3.88;7;321
+21677674;Stayloomís Trendy Tremont Retreat | near Fenway;149617117;Demetrios;0;Mission Hill;42.33185853;-71.09856731;Entire home/apt;5000;1;48;2018-11-12;3.88;7;321
 21677756;Luxurious 1-BR in The heart of Boston + Nice Gym!;95459395;Bluebird;0;South Boston Waterfront;42.35253461;-71.04281693;Entire home/apt;133;29;0;0;0;145;184
-21678120;Stayloom‚Äôs Remastered Retreat | near Fenway;149617117;Demetrios;0;Mission Hill;42.33261891;-71.10069416;Entire home/apt;5000;1;21;2018-10-30;1.69;7;314
+21678120;Stayloomís Remastered Retreat | near Fenway;149617117;Demetrios;0;Mission Hill;42.33261891;-71.10069416;Entire home/apt;5000;1;21;2018-10-30;1.69;7;314
 21678571;Sunny South End hideaway above the trees;18975159;Eleanor;0;South End;42.34565741;-71.07151221;Entire home/apt;165;3;0;0;0;1;0
 21679735;1 Bedroom near Harvard Business School.;157815801;Volkan;0;Allston;42.35941938;-71.12561498;Private room;70;1;1;2017-11-19;0.08;1;0
 21679902;JUST RENOVATED-Back Bay studio- walk subway & more;155595193;Michelle;0;Back Bay;42.35014981;-71.08726046;Entire home/apt;180;1;2;2018-10-16;0.27;8;347
@@ -3785,7 +3785,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 21693944;Bold 2BR in Downtown Crossing by Sonder;12243051;Sonder;0;Downtown;42.35546066;-71.06253104;Entire home/apt;194;2;12;2018-10-10;1.05;323;177
 21694590;Spacious 1 BR. Apt. in Allston - all to yourself!;33290979;Scott;0;Allston;42.34903047;-71.13206654;Entire home/apt;64;2;10;2018-05-17;0.84;1;0
 21697785;Victorian to Bauhaus, Penthouse of Hospitality;29635719;John;0;South End;42.33716503;-71.07673026;Entire home/apt;159;1;53;2018-10-28;4.6;2;221
-21698478;Angel‚Äôs room in Boston;57812241;Alexia;0;Dorchester;42.31855657;-71.05670005;Private room;95;6;4;2018-07-01;0.33;8;179
+21698478;Angelís room in Boston;57812241;Alexia;0;Dorchester;42.31855657;-71.05670005;Private room;95;6;4;2018-07-01;0.33;8;179
 21701419;Private bedroom in large renovated high rise condo;6574212;Jim;0;West End;42.36452517;-71.06712709;Private room;130;28;33;2018-08-17;2.72;2;89
 21701532;Private Room Very Close 2the Red Line!;111036773;Y;0;Dorchester;42.29095613;-71.06769602;Private room;37;30;0;0;0;4;289
 21708880;Spacious 1BR, Minutes from Back Bay;154342968;Kate;0;Allston;42.35525522;-71.13511593;Entire home/apt;185;3;0;0;0;5;89
@@ -4154,7 +4154,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 22534965;1 BR Penthouse in BEACON HILL/private ROOF DECK;3520185;Ekaterina;0;Beacon Hill;42.35938328;-71.06924919;Entire home/apt;89;1;25;2018-11-10;5.14;1;62
 22547331;Premier, Studio Condo Faneuil Hall Boston;11772547;Kelly;0;Charlestown;42.3736606;-71.05271767;Entire home/apt;225;1;46;2018-11-11;4.69;1;246
 22563395;Spacious one bedroom;165812357;Ashlee;0;Dorchester;42.31769926;-71.06090703;Private room;150;1;0;0;0;1;0
-22570371;4mi to Downtown‚Ä¢BCEC‚Ä¢FreePk‚Ä¢ steps to T;25203946;Eder;0;Dorchester;42.31099012;-71.06361606;Private room;34;2;9;2018-09-01;0.9;16;0
+22570371;4mi to DowntownïBCECïFreePkï steps to T;25203946;Eder;0;Dorchester;42.31099012;-71.06361606;Private room;34;2;9;2018-09-01;0.9;16;0
 22571244;TheLedder8- 2beds/2Bth-Near City/T free parking;25203946;Eder;0;Dorchester;42.30935961;-71.06347258;Private room;44;2;9;2018-08-23;0.89;16;0
 22581254;Brighton, MA Guesthouse for rent, Unit 1 (2nd Fl);166004722;Wang;0;Brighton;42.35613697;-71.15719067;Private room;50;30;0;0;0;4;139
 22582627;Stunning 3 Bedroom in The Heart of Boston!;95459395;Bluebird;0;Mission Hill;42.33007435;-71.11077013;Entire home/apt;211;3;0;0;0;145;363
@@ -4167,7 +4167,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 22585323;Airy 2BR in South End by Sonder;12243051;Sonder;0;South End;42.3380255;-71.06814004;Entire home/apt;194;2;19;2018-10-17;1.89;323;186
 22588076;South End designer studio city views;13918140;Mary;0;South End;42.34299066;-71.06539527;Entire home/apt;125;90;0;0;0;3;223
 22599383;Lively 2BR in South End by Sonder;12243051;Sonder;0;South End;42.33903093;-71.07930934;Entire home/apt;209;2;12;2018-10-14;1.17;323;175
-22606958;HOMEY 2BR APT! 1 FullBath & 1Private Parking!;85678907;Jes√∫s & Otto;0;Allston;42.34720575;-71.13639559;Entire home/apt;199;1;34;2018-10-26;3.27;7;203
+22606958;HOMEY 2BR APT! 1 FullBath & 1Private Parking!;85678907;Jes˙s & Otto;0;Allston;42.34720575;-71.13639559;Entire home/apt;199;1;34;2018-10-26;3.27;7;203
 22612107;Small studio JP Boston;132610734;Bethany;0;Jamaica Plain;42.31661956;-71.11267361;Entire home/apt;62;230;0;0;0;1;365
 22617711;?2018????????????;103180240;Hao ?;0;South End;42.34226593;-71.06604604;Private room;45;1;0;0;0;2;0
 22627055;Boston Christopher Grand Studio Suite;48494513;Inn Boston;0;South End;42.34383128;-71.07823164;Entire home/apt;200;2;1;2018-04-18;0.14;39;146
@@ -4219,13 +4219,13 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 22765330;Spacious Studio in East Boston Near Airport & City;128851394;Mary-Ann;0;East Boston;42.37725003;-71.03669069;Entire home/apt;83;1;63;2018-11-03;7.65;2;38
 22766812;Cozy Victorian Gem in Prime Back Bay Location;4669171;Yaz;0;Back Bay;42.34985727;-71.08502146;Entire home/apt;299;1;2;2018-03-11;0.23;6;0
 22788158;Great 2BR Duplex in South End with parking $25/day;4882636;Elena;0;South End;42.34244236;-71.07668997;Entire home/apt;199;1;77;2018-11-14;8.34;1;49
-22794472;Stayloom‚Äôs Bright Buttonwood House | near T;161724560;David;0;Dorchester;42.31926798;-71.05710232;Entire home/apt;5000;1;23;2018-10-23;2.54;3;302
+22794472;Stayloomís Bright Buttonwood House | near T;161724560;David;0;Dorchester;42.31926798;-71.05710232;Entire home/apt;5000;1;23;2018-10-23;2.54;3;302
 22809274;Ultra Lux Fenway 1BR Apt - Prime Location!;163251048;Jen;0;Fenway;42.34539254;-71.10047015;Entire home/apt;229;3;0;0;0;62;285
 22810330;Upscale Fenway 1BR Apt Next To Fenway Park;163251048;Jen;0;Fenway;42.34340193;-71.10212021;Entire home/apt;249;3;0;0;0;62;285
-22810966;4mi to Downtown‚Ä¢BCEC‚Ä¢FreePk‚Ä¢ steps to T;25203946;Eder;0;Dorchester;42.31099536;-71.0617694;Private room;44;2;9;2018-09-13;0.96;16;0
+22810966;4mi to DowntownïBCECïFreePkï steps to T;25203946;Eder;0;Dorchester;42.31099536;-71.0617694;Private room;44;2;9;2018-09-13;0.96;16;0
 22814137;Large Master Bedroom in a 2 Bedroom Condo;168611402;Davis (2-1M);0;Hyde Park;42.25690122;-71.11935218;Private room;39;1;56;2018-11-04;7.47;1;12
-22814449;Stayloom‚Äôs Charming Home | near T;161724560;David;0;Dorchester;42.32016418;-71.05533324;Entire home/apt;5000;1;30;2018-11-05;3.21;3;314
-22814686;Stayloom‚Äôs Upscale Destination | near T;161724560;David;0;Dorchester;42.31933452;-71.05569875;Entire home/apt;5000;1;15;2018-11-13;1.7;3;301
+22814449;Stayloomís Charming Home | near T;161724560;David;0;Dorchester;42.32016418;-71.05533324;Entire home/apt;5000;1;30;2018-11-05;3.21;3;314
+22814686;Stayloomís Upscale Destination | near T;161724560;David;0;Dorchester;42.31933452;-71.05569875;Entire home/apt;5000;1;15;2018-11-13;1.7;3;301
 22824621;Beacon Hill Downtown Boston Next To Freedom Trail;1118374;Matthew;0;Downtown;42.35546061;-71.06010861;Entire home/apt;147;1;70;2018-10-27;6.98;42;352
 22824659;Modern Furnished 2BR Apt Close to Longwood Medical;163251048;Jen;0;Fenway;42.34346559;-71.10139935;Entire home/apt;279;3;0;0;0;62;283
 22828664;3. Downtown, Theatre, Chinatown 2BR sleeps 5!;72882793;Drew & Liesl;0;Chinatown;42.34911788;-71.0608669;Entire home/apt;225;2;63;2018-11-11;6.63;6;146
@@ -4500,9 +4500,9 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 23592161;Cozy 1 bed close to great food & the waterfront.;40132620;Robert;0;North End;42.36505548;-71.05390693;Entire home/apt;200;2;40;2018-11-13;6.06;1;61
 23592485;FREE PARKING!!Such a great location right price :);139670302;Joe/Rose;0;South Boston;42.32938053;-71.0570315;Entire home/apt;200;2;25;2018-11-06;3.35;6;84
 23594420;1 Bedroom with Key-less entry Mission Hill;119007535;Kenneth;0;Roxbury;42.33039848;-71.09596059;Entire home/apt;195;2;49;2018-11-16;6.23;2;87
-23596658;Near subway redline‚Äî-luxury stay bedroom (#4);115426791;Jun;0;Dorchester;42.30982377;-71.0525023;Private room;80;1;55;2018-10-31;6.55;6;209
-23596922;Near subway Savin hill‚Äî-cozy and comfort(#5);115426791;Jun;0;Dorchester;42.30996536;-71.0538905;Private room;80;1;38;2018-10-29;4.63;6;213
-23597271;Lovely private bedroom‚Äî-near subway redline (#6);115426791;Jun;0;Dorchester;42.3098134;-71.05375132;Private room;80;1;18;2018-10-20;2.19;6;213
+23596658;Near subway redlineó-luxury stay bedroom (#4);115426791;Jun;0;Dorchester;42.30982377;-71.0525023;Private room;80;1;55;2018-10-31;6.55;6;209
+23596922;Near subway Savin hilló-cozy and comfort(#5);115426791;Jun;0;Dorchester;42.30996536;-71.0538905;Private room;80;1;38;2018-10-29;4.63;6;213
+23597271;Lovely private bedroomó-near subway redline (#6);115426791;Jun;0;Dorchester;42.3098134;-71.05375132;Private room;80;1;18;2018-10-20;2.19;6;213
 23612622;BEST OF BOSTON;13918140;Mary;0;South End;42.34259191;-71.07935145;Entire home/apt;375;2;25;2018-08-26;3.35;3;0
 23612638;Beautiful and sunny apartment on Boylston Street;7965101;Gaia;0;Fenway;42.34675612;-71.09426584;Entire home/apt;123;5;4;2018-08-27;0.61;1;305
 23624354;Single Family in Historic Charlestown;36524200;Karen;0;Charlestown;42.37912708;-71.06176559;Entire home/apt;500;3;1;2018-08-03;0.28;1;8
@@ -4580,7 +4580,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 23853780;Clean and spacious studio in Fenway;179169106;Michelle;0;Fenway;42.34758459;-71.10374511;Entire home/apt;120;5;0;0;0;1;0
 23854425;Private Room in Townhouse;127078529;Adina;0;Brighton;42.35685786;-71.14898491;Private room;105;3;5;2018-08-23;0.61;1;0
 23870750;Spacious, Deluxe 4B/2bath in Little Italy;40011725;Joann;0;North End;42.36333304;-71.05297975;Entire home/apt;370;3;32;2018-10-28;5.27;1;300
-23871901;Stayloom‚Äôs Charming Brownstone | Back Bay;10850877;Franklin;0;Back Bay;42.35422037;-71.07653779;Entire home/apt;5000;1;46;2018-11-14;5.92;5;327
+23871901;Stayloomís Charming Brownstone | Back Bay;10850877;Franklin;0;Back Bay;42.35422037;-71.07653779;Entire home/apt;5000;1;46;2018-11-14;5.92;5;327
 23872062;Modern Open South End Condo w/ Outdoor Garden;16222716;Linda;0;South End;42.33999595;-71.07987411;Entire home/apt;200;1;40;2018-11-03;5.61;1;76
 23872975;Elegant, Historic Luxury Condo in Town Center;149379579;Kristen;0;Charlestown;42.37568193;-71.06476029;Entire home/apt;165;4;3;2018-11-10;0.71;1;88
 23882402;Unmatched Boston Harbor Views in 1BR Luxury Suite;168831334;Neda;0;Downtown;42.35875153;-71.05245204;Entire home/apt;400;7;0;0;0;1;363
@@ -4598,7 +4598,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 23924118;Lovely and Comfortable;96420804;Carlos;0;Dorchester;42.29835751;-71.06504554;Entire home/apt;92;1;7;2018-06-16;0.88;3;123
 23947028;2 Bed & 2 Bath Luxury Apartment in Fenway Park 301;72375513;Baron;0;Fenway;42.34482263;-71.09688279;Entire home/apt;449;1;9;2018-10-26;1.23;4;220
 23947734;Short Walk to T!;16186589;Marie;0;Dorchester;42.28787748;-71.06642773;Private room;40;30;0;0;0;25;230
-23948205;Duplex 5BR/2BH‚Ä¢11 Beds 4.6mi to Downtown stepsto T;95762630;Fatima;0;Dorchester;42.30264712;-71.06319176;Entire home/apt;275;2;6;2018-08-22;0.99;6;123
+23948205;Duplex 5BR/2BHï11 Beds 4.6mi to Downtown stepsto T;95762630;Fatima;0;Dorchester;42.30264712;-71.06319176;Entire home/apt;275;2;6;2018-08-22;0.99;6;123
 23948295;Mezzanine apt 7 min ride to Downtown;156730180;Oslo;0;East Boston;42.37835142;-71.02686674;Entire home/apt;139;1;64;2018-11-12;8.03;3;176
 23959114;Historic North End Apartment - 1 bedroom;25654898;David;0;North End;42.36332558;-71.05280522;Entire home/apt;159;1;6;2018-08-23;0.8;1;0
 23960786;Lux 2BR 2BA Apt w/rooftop deck, gym, WiFi;9419684;Mike;0;Mission Hill;42.33043962;-71.11216638;Entire home/apt;199;2;0;0;0;132;20
@@ -4687,7 +4687,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 24302130;Boston Marathon: 2BR Apt in Quaint Southend!;48354852;Yan;0;South End;42.33708002;-71.07724653;Entire home/apt;200;3;1;2018-04-17;0.14;3;0
 24307072;(211-B2) Fenway Park, 3 bed!;21184200;Paige;0;Fenway;42.34810644;-71.09968472;Entire home/apt;115;1;29;2018-10-06;4.05;42;218
 24310492;Steps to Train in Hip Jamaica Plain - Boston;5480536;Allison;0;Jamaica Plain;42.32033589;-71.1097677;Private room;43;2;42;2018-11-04;6.36;1;14
-24312147;Bright & modern w private ¬Ω bath, AC, easy parking;3319818;Jenka;0;Roslindale;42.28563492;-71.12083446;Private room;70;2;32;2018-10-31;4.68;1;251
+24312147;Bright & modern w private Ω bath, AC, easy parking;3319818;Jenka;0;Roslindale;42.28563492;-71.12083446;Private room;70;2;32;2018-10-31;4.68;1;251
 24314218;A Bright Room in Veggie Paradise!;52169456;Myla;0;Jamaica Plain;42.29945149;-71.11245131;Private room;46;1;2;2018-08-24;0.69;2;0
 24315639;Beautiful Cozy Apartment | Minutes to Downtown;16541124;Ray (Raman);0;Roxbury;42.33004022;-71.08556598;Entire home/apt;250;1;20;2018-11-05;2.94;3;89
 24323074;Lux 1 Bedroom by Fenway with washer/dryer & WIFI;9419684;Mike;0;Fenway;42.34557134;-71.10166801;Entire home/apt;213;3;0;0;0;132;37
@@ -4818,7 +4818,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 24698814;Beautiful  private Room /temperpiedic bed.;125741990;Fati;0;Roslindale;42.29244338;-71.1195286;Private room;66;1;38;2018-11-02;6.1;1;80
 24709494;Spacious one bedroom apartment in Boston;7985329;Ali;0;Allston;42.34683858;-71.13473274;Entire home/apt;111;2;1;2018-05-28;0.17;2;0
 24713895;Clean Private Room near Longwood Medical in Boston;84144857;Maren;0;Mission Hill;42.33070153;-71.1015227;Private room;50;1;2;2018-07-31;0.31;2;152
-24715104;One of Boston‚Äôs most vibrant neighborhoods!;156800089;George;0;Dorchester;42.3179528;-71.05498974;Entire home/apt;75;1;27;2018-10-21;4.45;1;0
+24715104;One of Bostonís most vibrant neighborhoods!;156800089;George;0;Dorchester;42.3179528;-71.05498974;Entire home/apt;75;1;27;2018-10-21;4.45;1;0
 24726236;Private Queen-Sized Bedroom in Boston!;26131740;Claire;0;Brighton;42.35403979;-71.14466347;Private room;45;2;9;2018-11-08;2.55;1;100
 24729903;Sunny Spacious Jamaica Plain Two bed home;51137683;Sean;0;Jamaica Plain;42.31494217;-71.0997545;Entire home/apt;120;5;7;2018-08-09;1.14;2;0
 24731145;Fantastic Jamaica Plain 4BR/2b Walk to everything;6896299;Valerie & Jonathan;0;Jamaica Plain;42.30730138;-71.11891537;Entire home/apt;225;5;6;2018-09-25;1.34;1;0
@@ -4976,7 +4976,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 25511794;Monument Square | 3BR 2.5BA | Bunker Hill;71783;Lance;0;Charlestown;42.37746156;-71.06098695;Entire home/apt;225;2;3;2018-10-01;0.94;24;44
 25516679;Studios with a view by 420 Suites Logan Airport;192548695;GoLocal;0;East Boston;42.36662152;-71.04000259;Entire home/apt;349;2;8;2018-09-24;1.95;5;56
 25517511;3 Bedrooms in apartment w/rooftop near Harvard HBS;159250234;Daniel;0;Allston;42.35774959;-71.12649603;Private room;130;60;0;0;0;2;200
-25520363;A true ‚Äúhome away from home‚Äù;4842537;Haim;0;Brighton;42.34543289;-71.13703046;Entire home/apt;255;1;20;2018-11-15;3.66;1;176
+25520363;A true ìhome away from homeî;4842537;Haim;0;Brighton;42.34543289;-71.13703046;Entire home/apt;255;1;20;2018-11-15;3.66;1;176
 25549750;Huge, beautiful 4BR+ home, downtown location;3887707;Emily;0;Roxbury;42.32158098;-71.09196366;Entire home/apt;200;2;5;2018-08-05;0.94;1;0
 25568854;LUXURY BEDROOM AND BATHROOM IN SEAPORT BOSTON;28046939;Stephanie;0;South Boston Waterfront;42.34855444;-71.03793912;Private room;187;3;9;2018-11-13;1.63;3;123
 25576444;SouthEnd Eagles Nest;34719298;Michael;0;South End;42.34104832;-71.07793152;Entire home/apt;175;2;19;2018-10-28;3.5;1;22
@@ -5037,7 +5037,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 25975436;Stay in a GoLocal American-Made Suite in Back Bay!;18202088;Luxurious;0;Back Bay;42.34643;-71.07940392;Entire home/apt;287;5;1;2018-10-04;0.67;27;32
 26005227;Heart of the South End!  Reviews on 2nd listing!;432317;Julie;0;South End;42.345444;-71.06909488;Entire home/apt;95;3;1;2018-09-13;0.45;2;8
 26009228;Boston very small room with a TV 7/11 YMCA BC, BU;62336740;Dmitriy;0;Brighton;42.34901693;-71.1651526;Private room;89;1;4;2018-10-21;0.81;8;90
-26012594;Thanksgiving Gathering 4m to City FreePk‚Ä¢stepstoT;25203946;Eder;0;Dorchester;42.30953007;-71.06248299;Entire home/apt;267;2;3;2018-09-30;0.71;16;346
+26012594;Thanksgiving Gathering 4m to City FreePkïstepstoT;25203946;Eder;0;Dorchester;42.30953007;-71.06248299;Entire home/apt;267;2;3;2018-09-30;0.71;16;346
 26013456;Spacious sunny room close to downtown crossing;89328922;Ehab;0;Dorchester;42.3221663;-71.05560937;Private room;70;1;5;2018-11-11;3.57;3;82
 26014681;1 Bedroom Oak sq BC Boston Great location near Bus;5454109;Dmitriy;0;Brighton;42.35065943;-71.16406241;Private room;89;1;4;2018-09-16;0.81;5;88
 26025228;~*5 Min Walk to Subway*~ SOLSTICE;14016102;Jovan;0;Dorchester;42.30238998;-71.06420866;Entire home/apt;300;1;16;2018-10-28;6.15;5;134
@@ -5075,7 +5075,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 26138283;Sunny 1BR in Back Bay by Sonder;12243051;Sonder;0;Back Bay;42.34990035;-71.08011519;Entire home/apt;151;2;4;2018-09-14;0.95;323;99
 26157305;Entire Home Boston;183403925;Kim;0;Roslindale;42.27222689;-71.12335295;Entire home/apt;164;2;20;2018-11-12;4.35;1;309
 26160905;PRIVATE, COZY, CLEAN & COMFORTABLE 1 BEDROOM APT.;196631266;Nakeisha;0;Dorchester;42.28954457;-71.07623912;Entire home/apt;85;1;49;2018-11-11;10.14;1;56
-26163695;Bina‚Äôs Home away from Home 3;153568352;Sabina;0;Mattapan;42.27868712;-71.0868453;Private room;75;1;20;2018-11-15;7.59;5;172
+26163695;Binaís Home away from Home 3;153568352;Sabina;0;Mattapan;42.27868712;-71.0868453;Private room;75;1;20;2018-11-15;7.59;5;172
 26171443;Clean Sunroom Small Private Entrance Couch! Oak sq;5454109;Dmitriy;0;Brighton;42.35065243;-71.16358734;Private room;46;1;10;2018-10-29;2.04;5;88
 26200016;Room private, WC shared, near BU Harvard;50646598;House On Blaine;0;Allston;42.35532225;-71.13734582;Private room;35;1;2;2018-09-01;0.76;7;365
 26200803;Cozy and Spacious  Apartment Near Downtown Boston;196695287;Mina;0;Dorchester;42.30420958;-71.06303998;Entire home/apt;200;2;21;2018-10-28;4.77;6;351
@@ -5223,13 +5223,13 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 26847026;Spacious & Elegant Boston Apartment;196695287;Mina;0;Dorchester;42.30410539;-71.06481835;Entire home/apt;250;2;2;2018-10-29;2;6;356
 26849307;Apartment near transit/free parking/self check-in;201935605;Sherwin;0;Hyde Park;42.25047724;-71.11603615;Entire home/apt;95;1;32;2018-11-16;8.5;5;80
 26849309;Cozy Fairmount Hill apt near transit/free parking;201935605;Sherwin;0;Hyde Park;42.24987115;-71.11754055;Entire home/apt;95;1;38;2018-11-11;10.36;5;149
-26868598;Two bedroom that‚Äôs great for a family with kids!;163359051;Chad;0;Brighton;42.3416544;-71.14830807;Entire home/apt;225;4;1;2018-07-24;0.26;1;0
+26868598;Two bedroom thatís great for a family with kids!;163359051;Chad;0;Brighton;42.3416544;-71.14830807;Entire home/apt;225;4;1;2018-07-24;0.26;1;0
 26872482;Private Room in Beatown Landing;90113276;Jim;0;South Boston;42.3372887;-71.04615084;Private room;100;1;4;2018-10-30;1.14;3;348
 26878627;Luxury Cozy Apartment in Boston;180797333;Natalie;0;Back Bay;42.3460214;-71.08611427;Private room;249;1;0;0;0;1;0
 26879063;Boston Apartment;31891783;Aly;0;East Boston;42.36961901;-71.03732967;Entire home/apt;111;3;0;0;0;1;0
 26885536;Backbay/Downtown studio sized space for Females;25911903;Esha;0;Back Bay;42.3431904;-71.08216683;Private room;40;3;6;2018-10-28;1.62;2;84
-26893347;Vera Room (Free Private Parking);202301643;K√ºbra;0;South Boston;42.32999844;-71.0586319;Private room;80;1;20;2018-11-14;8.33;2;67
-26893801;Art Room (Near Subway St - 2 stops from downtown);202301643;K√ºbra;0;South Boston;42.33137795;-71.05695693;Private room;65;1;21;2018-11-15;8.29;2;63
+26893347;Vera Room (Free Private Parking);202301643;K¸bra;0;South Boston;42.32999844;-71.0586319;Private room;80;1;20;2018-11-14;8.33;2;67
+26893801;Art Room (Near Subway St - 2 stops from downtown);202301643;K¸bra;0;South Boston;42.33137795;-71.05695693;Private room;65;1;21;2018-11-15;8.29;2;63
 26894212;Sunny JP Home  - walk to everything!;25546494;Liz;0;Jamaica Plain;42.32158523;-71.10985202;Entire home/apt;225;3;4;2018-10-22;1.25;1;5
 26895576;Beautiful/Modern East Boston Home Away from Home;28457780;Jake;0;East Boston;42.3792093;-71.03757856;Entire home/apt;300;2;16;2018-11-12;4.8;1;344
 26921135;Comfortable, spacious room near rail station;10948916;Ted;0;Roslindale;42.28887366;-71.13102693;Private room;38;1;12;2018-10-29;3.16;2;28
@@ -5241,7 +5241,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 26997440;4D - south end/BU Med/NEU/Haynes Convention;41932249;Ann;0;Roxbury;42.33694879;-71.07860218;Private room;80;1;21;2018-11-12;5.16;12;98
 27046444;Modern Condo in Desirable  Southie Neighborhood!;25606684;Lori;0;South Boston;42.33409423;-71.0356983;Entire home/apt;109;6;0;0;0;1;86
 27055199;Convenient Brighton Center 1 BR Apartment;185963435;Ki;0;Brighton;42.34887505;-71.15790216;Entire home/apt;170;2;23;2018-11-11;6.33;1;141
-27056786;Boston Apartment with Amazing location;136243824;Giovanni G√∂khan;0;Brighton;42.34185798;-71.14444984;Private room;50;1;27;2018-11-14;7.23;1;1
+27056786;Boston Apartment with Amazing location;136243824;Giovanni Gˆkhan;0;Brighton;42.34185798;-71.14444984;Private room;50;1;27;2018-11-14;7.23;1;1
 27057935;Luxury Flat in Seaport/Near Conv Cent/Downtown;84744174;Paradise;0;South Boston Waterfront;42.35115676;-71.04685702;Entire home/apt;199;2;20;2018-11-06;5.26;1;87
 27074605;COLLEGE STUDENTS are welcome 3 MINS walk to train;156053359;Ken;0;Dorchester;42.29107417;-71.06636587;Private room;45;45;0;0;0;7;88
 27074857;Cozy and Bright 1.53;78962454;Micah;0;Roxbury;42.31829593;-71.08126267;Private room;35;1;28;2018-11-14;8;41;33
@@ -5276,7 +5276,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 27172618;Simple, cozy room at the Bunker Hill Monument;22664681;Ceri;0;Charlestown;42.37808147;-71.06244336;Private room;90;2;8;2018-09-01;2.29;1;113
 27197821;Cozy Room 2;155919128;Erico;0;Dorchester;42.3089209;-71.07934652;Private room;44;1;19;2018-11-13;5.82;3;77
 27203329;Clean, comfy room with excellent location@3;183805757;Claire;0;East Boston;42.36848552;-71.04009771;Private room;81;2;22;2018-11-10;6.6;3;48
-27221105;Private Room on Top floor.  15 min to Boston!;198053735;Sa√Ød;0;West Roxbury;42.28545588;-71.16270192;Private room;40;1;11;2018-11-01;3.11;1;156
+27221105;Private Room on Top floor.  15 min to Boston!;198053735;SaÔd;0;West Roxbury;42.28545588;-71.16270192;Private room;40;1;11;2018-11-01;3.11;1;156
 27233115;Close to T stop, no clean fee, 1 Free Parkng Space;53765664;Karen;0;Dorchester;42.32158182;-71.05568811;Private room;53;2;13;2018-10-16;3.45;1;0
 27233778;Beautiful Apartment in Boston's Theater District;51701686;Mohammed;0;Chinatown;42.35242745;-71.06152984;Entire home/apt;219;2;3;2018-08-22;0.88;1;0
 27236306;Yellow Boston (private bath);33280346;Tes And Sharon;0;Mission Hill;42.33273442;-71.1004663;Private room;67;1;30;2018-11-08;8.74;2;149
@@ -5420,12 +5420,12 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 27721473;Broadway Private Deck Boston Skyline + King Bed;1118374;Matthew;0;South Boston;42.33508371;-71.04243731;Entire home/apt;156;1;18;2018-10-31;5.63;42;364
 27721562;?Location rule? cozy and quiet in Back Bay;18110188;Cindy;0;Back Bay;42.34346124;-71.0825911;Entire home/apt;400;1;9;2018-11-12;3.65;8;278
 27725614;BEAUTIFUL 2 BEDROOM APARTMENT IN GREATER BOSTON;2618808;Curtis;0;Dorchester;42.31221518;-71.06764989;Entire home/apt;115;2;13;2018-10-29;4.59;2;297
-27729451;Li‚Äôl Italy, Harbor apartment.;46702413;Beth;0;North End;42.36508438;-71.05096179;Entire home/apt;175;4;9;2018-11-07;3.6;3;355
+27729451;Liíl Italy, Harbor apartment.;46702413;Beth;0;North End;42.36508438;-71.05096179;Entire home/apt;175;4;9;2018-11-07;3.6;3;355
 27733061;Room in Back Bay Brownstone Penthouse Apartment;16618536;Aziz;0;Back Bay;42.35024791;-71.08546924;Private room;125;1;23;2018-11-12;8.96;2;86
 27734523;Boston Room (3-1);209395207;Belkis;0;Jamaica Plain;42.31431537;-71.1013264;Private room;69;3;7;2018-10-22;2.33;6;341
 27755350;Private Room in Quiet Neighborhood;208330292;Usharani;0;Roslindale;42.28131529;-71.1217441;Private room;45;1;5;2018-09-01;1.61;1;0
 27757909;Bright room+ private bathroom in vibrant Boston;2513872;Naty;0;South End;42.34153654;-71.06912896;Private room;150;1;4;2018-11-11;1.29;2;7
-27770672;Chez Loung√©: 1 BR (CLOSE TO AIRPORT);17692984;Jack;0;East Boston;42.36993759;-71.03729654;Entire home/apt;190;2;1;2018-11-12;1;1;31
+27770672;Chez LoungÈ: 1 BR (CLOSE TO AIRPORT);17692984;Jack;0;East Boston;42.36993759;-71.03729654;Entire home/apt;190;2;1;2018-11-12;1;1;31
 27775640;[2930-3] New 3 BR Close To Longwood Medical Area;25188;Seamless;0;Mission Hill;42.33231241;-71.11240691;Entire home/apt;552;4;0;0;0;66;89
 27778274;Stay Aboard a Ship in Boston Harbor. Cabin 2. 2px;185660576;Frederick;0;East Boston;42.36392132;-71.03375876;Private room;129;1;0;0;0;6;60
 27779216;Stay on a Ship in Boston Harbor. Cabin 3. 2px;185660576;Frederick;0;East Boston;42.36523084;-71.03265497;Private room;129;1;1;2018-08-18;0.33;6;60
@@ -5476,9 +5476,9 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 27986065;Free WiFi, Laundry-Near Orange Line-Fast Commute!;136010789;Adam & Ben;0;Jamaica Plain;42.32379545;-71.10824505;Private room;45;30;0;0;0;9;86
 27988257;?Historic Beacon Hill | Cozy private room?;211387294;Khanh;0;Beacon Hill;42.36047368;-71.06915283;Private room;125;1;30;2018-11-15;10.71;1;112
 27988417;Spacious two bedroom apartment in Charlestown;78658122;Yago;0;Charlestown;42.37308606;-71.0615918;Entire home/apt;250;2;7;2018-11-04;2.76;2;27
-27990313;Bina‚Äôs Home Away from Home 1 Master bed room;153568352;Sabina;0;Mattapan;42.27659017;-71.08519352;Private room;85;1;21;2018-11-11;7.59;5;144
+27990313;Binaís Home Away from Home 1 Master bed room;153568352;Sabina;0;Mattapan;42.27659017;-71.08519352;Private room;85;1;21;2018-11-11;7.59;5;144
 27990441;#B104 Boston Private room ( 2 Twin beds)????;105851798;Anne;0;Dorchester;42.29579851;-71.06234567;Private room;65;1;1;2018-08-30;0.37;18;342
-27990984;Bina‚Äôs Home away from Home 2;153568352;Sabina;0;Mattapan;42.2780803;-71.08700391;Private room;70;1;34;2018-11-11;12.29;5;172
+27990984;Binaís Home away from Home 2;153568352;Sabina;0;Mattapan;42.2780803;-71.08700391;Private room;70;1;34;2018-11-11;12.29;5;172
 27991699;Boston Spot;211416849;Adam;0;Allston;42.35220792;-71.14306753;Private room;115;1;0;0;0;1;344
 27992316;Boston guest suite;157579197;Jonathan;0;Brighton;42.34117061;-71.15136611;Entire home/apt;100;2;15;2018-11-15;7.38;1;111
 28004389;Modern Studio near Fenway +Pool and Fitness Center;163251048;Jen;0;Jamaica Plain;42.32829837;-71.11100901;Entire home/apt;249;3;1;2018-10-24;1;62;364
@@ -5488,14 +5488,14 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 28012000;Alaska Street R23;188939923;Mort;0;Roxbury;42.31978208;-71.07989096;Private room;95;2;5;2018-10-17;1.95;6;89
 28012569;Lavish 1 Bed Condo near Fenway!;4962900;Stay Alfred;0;Back Bay;42.34645589;-71.07793386;Entire home/apt;429;2;0;0;0;51;211
 28014596;#B102 Boston Private room (Full size ) Boston;105851798;Anne;0;Dorchester;42.29685417;-71.06177006;Private room;85;1;4;2018-10-21;1.58;18;329
-28025180;WELL LOCATED APT by BU! 2Beds/1Bath+ 1 Parking!;85678907;Jes√∫s & Otto;0;Brighton;42.34625985;-71.1360968;Entire home/apt;228;2;8;2018-11-05;4.14;7;319
-28027356;CLOSE TO BOSTON UNIVERSITY 2Beds/1 Bath+1Parking;85678907;Jes√∫s & Otto;0;Allston;42.34669386;-71.13538052;Entire home/apt;228;2;15;2018-11-02;7.5;7;303
-28027802;Boston‚Äôs Charlestown Charm - parking space!;44675613;Elizabeth;0;Charlestown;42.37735971;-71.0602002;Entire home/apt;350;2;6;2018-11-12;2.34;1;9
+28025180;WELL LOCATED APT by BU! 2Beds/1Bath+ 1 Parking!;85678907;Jes˙s & Otto;0;Brighton;42.34625985;-71.1360968;Entire home/apt;228;2;8;2018-11-05;4.14;7;319
+28027356;CLOSE TO BOSTON UNIVERSITY 2Beds/1 Bath+1Parking;85678907;Jes˙s & Otto;0;Allston;42.34669386;-71.13538052;Entire home/apt;228;2;15;2018-11-02;7.5;7;303
+28027802;Bostonís Charlestown Charm - parking space!;44675613;Elizabeth;0;Charlestown;42.37735971;-71.0602002;Entire home/apt;350;2;6;2018-11-12;2.34;1;9
 28027835;Large One Bedroom by Charles River Park/ MGH;20079643;Alex;0;West End;42.36562563;-71.0696666;Entire home/apt;220;20;0;0;0;18;323
 28030374;Modern & Bright Private Room | Harvard/MIT/BU;24077748;Pat;0;Allston;42.36278859;-71.13037285;Private room;100;1;11;2018-11-11;7.02;1;163
 28033157;East Boston Studio;49457294;Jorge;0;East Boston;42.37493863;-71.03278908;Entire home/apt;100;2;17;2018-11-10;7.29;2;9
 28033271;Private Bed/Bath/Entrance, next to Train Station!;211749888;Erika/Scott/Valerie;0;Dorchester;42.31040492;-71.05391788;Private room;75;1;13;2018-11-11;5.06;1;107
-28036142;Bina‚Äôs Home away from home 5 /Family Friendly;153568352;Sabina;0;Mattapan;42.2784433;-71.08577315;Private room;85;1;0;0;0;5;89
+28036142;Binaís Home away from home 5 /Family Friendly;153568352;Sabina;0;Mattapan;42.2784433;-71.08577315;Private room;85;1;0;0;0;5;89
 28044895;Cozy room near Dudley Square!;53056307;Tommy;0;Roxbury;42.32232511;-71.0857439;Private room;85;1;7;2018-11-09;2.84;2;220
 28045232;Isabella's Classic Boston 3BR sleeps 8!;211846576;South End;0;Back Bay;42.34957919;-71.07112322;Entire home/apt;295;2;13;2018-11-05;5.65;1;124
 28048288;?Walk Everywhere?Brand New Renovation?Full Luxury?;59234220;Lara;0;Beacon Hill;42.35736243;-71.07055257;Entire home/apt;499;2;14;2018-11-07;5.68;8;40
@@ -5784,7 +5784,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 28954103;Nice & quiet space near Downtown/Mass General;218247247;Danniel;0;West End;42.36299868;-71.06811781;Private room;49;2;3;2018-10-27;2.81;1;14
 28958230;Cozy & Spacious Bedroom in beautiful house in JP;218275910;Michael;0;Jamaica Plain;42.30208403;-71.1311252;Private room;68;2;7;2018-11-05;6.18;1;246
 28964046;Private Room in Modern unit plus a beautiful area!;209771625;Mike;0;Brighton;42.34876412;-71.16362754;Private room;43;1;2;2018-10-12;1.36;8;172
-28964603;Family‚Äôs Home;41542719;Ivan;0;East Boston;42.37263013;-71.03658956;Entire home/apt;119;1;13;2018-11-16;9.29;5;253
+28964603;Familyís Home;41542719;Ivan;0;East Boston;42.37263013;-71.03658956;Entire home/apt;119;1;13;2018-11-16;9.29;5;253
 28965215;Bedroom 1;41542719;Ivan;0;East Boston;42.37261371;-71.03771621;Private room;59;1;4;2018-11-11;2.73;5;257
 28965363;Bedroom 2;41542719;Ivan;0;East Boston;42.37202835;-71.03791574;Private room;53;1;5;2018-10-24;3.41;5;253
 28965672;Alaska Street R51;216849347;Jeana;0;Roxbury;42.32017674;-71.07951408;Private room;65;2;2;2018-10-23;1.82;4;89
@@ -5863,7 +5863,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29182847;Classic 2BR in Financial District by Sonder;12243051;Sonder;0;Downtown;42.35729588;-71.05522836;Entire home/apt;374;2;0;0;0;323;188
 29183074;Sophisticated 1BR in Financial District by Sonder;12243051;Sonder;0;Downtown;42.35858255;-71.05475697;Entire home/apt;190;2;0;0;0;323;174
 29183079;Contemporary 2BR in Financial District by Sonder;12243051;Sonder;0;Downtown;42.35876639;-71.05443161;Entire home/apt;374;2;0;0;0;323;181
-29184396;Large bedroom 5 min walk from St.Elizabeth‚Äôs MC;174721407;Heyran;0;Brighton;42.35103611;-71.16545527;Private room;46;1;9;2018-11-12;7.5;2;179
+29184396;Large bedroom 5 min walk from St.Elizabethís MC;174721407;Heyran;0;Brighton;42.35103611;-71.16545527;Private room;46;1;9;2018-11-12;7.5;2;179
 29184779;Renovated,Chic 1 bed,sleeps 4,steps to transit;96961013;Deb;0;Brighton;42.3376176;-71.15160977;Entire home/apt;125;2;1;2018-11-12;1;3;324
 29186224;Walk to redline, minuets to downtown, MGH, seaport;37274789;Tim;0;Dorchester;42.29302695;-71.06240012;Entire home/apt;145;1;0;0;0;1;158
 29189050;Fort Hill Spacious 2 Bedroom Apartment;215759456;Ruth;0;Roxbury;42.32294401;-71.09179199;Entire home/apt;170;2;2;2018-11-04;2;2;176
@@ -5910,7 +5910,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29357228;?Superhost Special?Safari 2BR?Free Parking?Netflix;11410590;Sleepy Panda Homes | Nika & Tony;0;Charlestown;42.37440239;-71.06171278;Entire home/apt;138;1;3;2018-11-11;3;4;179
 29357237;Prime Downtown Boston Apartment;11272292;Talal;0;Downtown;42.35615846;-71.06145613;Entire home/apt;300;1;2;2018-10-27;2;6;170
 29359918;Fort Hill;220448517;Catherine;0;Roxbury;42.32470559;-71.08990944;Private room;120;2;4;2018-11-04;4;1;362
-29360188;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34232915;-71.05610898;Private room;144;2;0;0;0;87;220
+29360188;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34232915;-71.05610898;Private room;144;2;0;0;0;87;220
 29360278;LARGE FENWAY-close to HOSPITALS, SUBWAY BACK BAY;38997;Michelle;0;Fenway;42.34519598;-71.09500355;Entire home/apt;99;30;0;0;0;8;244
 29360920;Stay in a GoLocal American-Made Suite in Back Bay!;221196860;Keith;0;Back Bay;42.34690095;-71.0776156;Entire home/apt;199;1;5;2018-11-12;5;2;72
 29361108;Lovely Modern Victorian Home;199464664;Ricardo;0;Dorchester;42.29433333;-71.0682883;Entire home/apt;155;1;1;2018-11-03;1;2;173
@@ -5942,7 +5942,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29415380;Spacious 3bed Apartment in South Boston-W Broadway;221582974;Maggie;0;South Boston;42.337849;-71.04713684;Entire home/apt;350;1;1;2018-10-24;1;1;172
 29415386;1 Bedroom close  Fenway Park & Downtown Boston;221582971;Carmen;0;Jamaica Plain;42.32492052;-71.10413694;Shared room;45;1;0;0;0;10;365
 29417035;Private Room in Mission Hill;34224752;Julie;0;Mission Hill;42.32833953;-71.10608392;Private room;75;1;2;2018-11-15;2;1;67
-29417659;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34323274;-71.05721556;Private room;144;60;0;0;0;87;266
+29417659;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34323274;-71.05721556;Private room;144;60;0;0;0;87;266
 29424255;Sublease 1b1b Apt from Jan to Aug 2019 in Brighton;38177605;Ang;0;Brighton;42.33845163;-71.15528304;Entire home/apt;55;220;0;0;0;1;251
 29435429;Seaport Luxe Condos Studio 5;8534462;Nadia;0;South Boston Waterfront;42.35311305;-71.0450275;Entire home/apt;199;2;0;0;0;56;355
 29436265;Seaport Luxe Condos 1BD / 1BA 5;8534462;Nadia;0;South Boston Waterfront;42.35321772;-71.0463478;Entire home/apt;270;2;0;0;0;56;361
@@ -5965,7 +5965,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29482664;1Private Bedroom close Fenway Park Downtown Boston;219952410;Yonel;0;Jamaica Plain;42.32506957;-71.10596743;Private room;160;1;1;2018-10-25;1;11;365
 29482789;2 Bedroom close to Fenway Park & Downtown Boston;219952410;Yonel;0;Jamaica Plain;42.3257456;-71.10598632;Shared room;50;1;1;2018-11-11;1;11;365
 29483130;Luxury 1 Bedroom Walking Distance to Hospitals;192548695;GoLocal;0;Mission Hill;42.33089902;-71.0986297;Entire home/apt;279;1;0;0;0;5;87
-29483839;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34212165;-71.05723034;Private room;144;2;0;0;0;87;260
+29483839;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34212165;-71.05723034;Private room;144;2;0;0;0;87;260
 29484467;Bright Boston Brownstone Studio;814298;Brent;0;South End;42.34244156;-71.0800282;Entire home/apt;105;60;0;0;0;87;153
 29484608;Bright Studio in Quiet South End Brownstone;814298;Brent;0;South End;42.34148185;-71.08040884;Entire home/apt;105;60;0;0;0;87;158
 29484952;90-8 Beautiful Building on Botolph;76545076;Taylor;0;Back Bay;42.34578687;-71.08058618;Entire home/apt;220;1;0;0;0;31;349
@@ -5986,20 +5986,20 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29487140;Cozy South End Studio in Brownstone Building;814298;Brent;0;South End;42.3427703;-71.07892347;Entire home/apt;105;30;0;0;0;87;141
 29487171;463-C Industrial Chic Apartment;76545076;Taylor;0;Fenway;42.34544886;-71.10336756;Entire home/apt;150;1;1;2018-10-31;1;31;323
 29487618;1-1 Cute Champney 2 Bed;76545076;Taylor;0;Beacon Hill;42.35940025;-71.06861835;Entire home/apt;230;1;0;0;0;31;68
-29487809;WB Quarters‚Ñ¢ by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34313929;-71.05602261;Private room;144;30;0;0;0;87;145
-29488018;WB Quarters‚Ñ¢ by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34321247;-71.05656092;Private room;144;30;0;0;0;87;108
+29487809;WB Quartersô by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34313929;-71.05602261;Private room;144;30;0;0;0;87;145
+29488018;WB Quartersô by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34321247;-71.05656092;Private room;144;30;0;0;0;87;108
 29488413;Renovated Fabulous 4br House close to T;70346217;Nezzy;0;Brighton;42.33709913;-71.15060599;Entire home/apt;237;1;0;0;0;5;151
-29488761;WB Quarters‚Ñ¢ by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34225831;-71.05599034;Private room;144;30;0;0;0;87;216
-29488814;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34291913;-71.05588524;Private room;144;30;0;0;0;87;147
+29488761;WB Quartersô by STRB|Polished Cozy in Southie;814298;Brent;0;South Boston;42.34225831;-71.05599034;Private room;144;30;0;0;0;87;216
+29488814;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34291913;-71.05588524;Private room;144;30;0;0;0;87;147
 29489346;Downtown Boston Moontower Loft!;88360952;Anthony;0;Downtown;42.35442048;-71.06057817;Private room;155;2;0;0;0;3;59
 29489650;Giant Room close to Transportation + Workspace!;209771625;Mike;0;Brighton;42.35276262;-71.14447251;Private room;48;1;0;0;0;8;174
-29491358;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34308716;-71.05598159;Private room;144;30;0;0;0;87;158
+29491358;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34308716;-71.05598159;Private room;144;30;0;0;0;87;158
 29491487;Comfortable Room in a Renovated Apartment;70346217;Nezzy;0;Brighton;42.3381617;-71.14903686;Private room;65;1;2;2018-10-27;2;5;186
-29491697;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.3423903;-71.05740086;Private room;144;1;0;0;0;87;149
+29491697;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.3423903;-71.05740086;Private room;144;1;0;0;0;87;149
 29491847;Spectacular 1 bedroom with loft and office space.;887148;Dawn;0;Charlestown;42.37598412;-71.05340545;Entire home/apt;450;5;0;0;0;6;89
-29491874;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.3436599;-71.05726001;Private room;144;1;0;0;0;87;118
-29492039;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34175407;-71.05691498;Private room;144;1;0;0;0;87;120
-29492253;WB Quarters‚Ñ¢ by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34313094;-71.05723838;Private room;144;1;0;0;0;87;115
+29491874;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.3436599;-71.05726001;Private room;144;1;0;0;0;87;118
+29492039;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34175407;-71.05691498;Private room;144;1;0;0;0;87;120
+29492253;WB Quartersô by STRB|Hangout|Priv. Room|Shared BA;814298;Brent;0;South Boston;42.34313094;-71.05723838;Private room;144;1;0;0;0;87;115
 29508247;Wicked awesome new apartment in heart of Boston!;24592726;Chloe;0;South Boston;42.34053426;-71.04994942;Private room;500;1;0;0;0;1;46
 29508336;Freedom Trail Charlestown Studio! Walk Downtown!;24846854;Benjamin;0;Charlestown;42.37687082;-71.06152979;Entire home/apt;155;29;0;0;0;1;309
 29509001;Ideal accommodation for Airport and Downtown;220739450;Herby;0;East Boston;42.38955622;-71.00453577;Entire home/apt;100;1;6;2018-11-12;6;1;21
@@ -6007,7 +6007,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29513238;Cozy Studio in the Heart of Downtown Crossing;814298;Brent;0;Downtown;42.35543353;-71.06159966;Entire home/apt;175;60;0;0;0;87;341
 29513275;Back Bay studio on Marlborough St;180283497;Michelle;0;Back Bay;42.35287385;-71.07649164;Entire home/apt;100;30;0;0;0;5;364
 29515548;Bright Downtown Crossing Studio in Theatre Dist;814298;Brent;0;Downtown;42.35403781;-71.0615431;Entire home/apt;133;30;0;0;0;87;127
-29516613;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33667551;-71.04587239;Private room;105;30;0;0;0;37;149
+29516613;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33667551;-71.04587239;Private room;105;30;0;0;0;37;149
 29517872;Great deal for students and visitors to Boston;222283839;Jason;0;West Roxbury;42.27865743;-71.14712219;Shared room;50;4;0;0;0;1;347
 29518043;NEW Luxe 4Bed 3Bath near North End Boston;163085096;Eric;0;Charlestown;42.38337961;-71.07416406;Entire home/apt;296;3;0;0;0;1;350
 29521375;2 Bedroom close to Fenway Park & Downtown Boston;219952410;Yonel;0;Jamaica Plain;42.32493363;-71.10404305;Shared room;50;1;0;0;0;11;365
@@ -6025,28 +6025,28 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29537722;Charming Efficient Downtown Crossing Studio;814298;Brent;0;Downtown;42.3557989;-71.06182193;Entire home/apt;133;2;0;0;0;87;94
 29537895;Quaint Studio - Historic Theatre District Downtown;814298;Brent;0;Downtown;42.35539446;-71.06173996;Entire home/apt;133;30;0;0;0;87;150
 29537984;Cozy Downtown Studio Across From Boston Common;814298;Brent;0;Downtown;42.35543242;-71.06303105;Entire home/apt;133;2;0;0;0;87;125
-29538064;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.3351137;-71.04580983;Private room;105;2;0;0;0;37;166
+29538064;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.3351137;-71.04580983;Private room;105;2;0;0;0;37;166
 29538669;Quaint & Cozy Downtown Crossing Studio A+ Location;814298;Brent;0;Downtown;42.35578721;-71.06150902;Entire home/apt;133;60;0;0;0;87;331
-29538756;Quarters‚Ñ¢ on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33610612;-71.04397703;Private room;105;2;0;0;0;37;143
+29538756;Quartersô on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33610612;-71.04397703;Private room;105;2;0;0;0;37;143
 29538848;Downtown Crossing Efficiency Studio w Kitchenette;814298;Brent;0;Downtown;42.35443185;-71.0613387;Entire home/apt;133;60;0;0;0;87;357
 29538940;Prime Downtown Location Efficiency Studio;814298;Brent;0;Downtown;42.3540362;-71.06171729;Entire home/apt;133;60;0;0;0;87;358
 29539009;Quaint Studio in Historic Downtown Building;814298;Brent;0;Downtown;42.3557841;-71.061366;Entire home/apt;133;60;0;0;0;87;359
 29539105;Historic Theatre District Windsor Building Studio;814298;Brent;0;Downtown;42.3559217;-71.06099823;Entire home/apt;133;30;0;0;0;87;253
 29539228;Boston Commons Condos 2BD 1F;8534462;Nadia;0;Downtown;42.35159547;-71.06451946;Entire home/apt;320;2;0;0;0;56;142
-29539281;Quarters‚Ñ¢ on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33670435;-71.04414561;Private room;105;30;0;0;0;37;182
+29539281;Quartersô on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33670435;-71.04414561;Private room;105;30;0;0;0;37;182
 29539518;Boston Commons Condos 1BD 2F;8534462;Nadia;0;Downtown;42.35188607;-71.06368583;Entire home/apt;220;2;0;0;0;56;164
-29540035;Quarters‚Ñ¢ on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33500575;-71.04539127;Private room;105;30;0;0;0;37;184
+29540035;Quartersô on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33500575;-71.04539127;Private room;105;30;0;0;0;37;184
 29540248;Luxurious Modern Apartment with Pool,Gym,Sky Deck;4172833;Peter;0;South End;42.34407401;-71.0653392;Entire home/apt;475;2;0;0;0;1;358
-29540528;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33483518;-71.04395354;Private room;105;60;0;0;0;37;55
-29540890;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33477879;-71.04466612;Private room;105;30;0;0;0;37;97
-29541231;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33538299;-71.04575781;Private room;105;30;0;0;0;37;146
+29540528;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33483518;-71.04395354;Private room;105;60;0;0;0;37;55
+29540890;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33477879;-71.04466612;Private room;105;30;0;0;0;37;97
+29541231;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33538299;-71.04575781;Private room;105;30;0;0;0;37;146
 29541350;1-2 Charming Champney 1 Bed;76545076;Taylor;0;Beacon Hill;42.35887645;-71.06819815;Entire home/apt;150;1;1;2018-11-02;1;31;66
-29541467;Quarters‚Ñ¢ on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33488356;-71.04462549;Private room;105;30;0;0;0;37;138
+29541467;Quartersô on DOT STRB - Private Bunk | Shared Bath;1444340;Will;0;South Boston;42.33488356;-71.04462549;Private room;105;30;0;0;0;37;138
 29541534;Spacious Jamaica Plain destination!;26988;Anne;0;Jamaica Plain;42.31049831;-71.10460487;Entire home/apt;150;4;0;0;0;13;305
-29541836;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.3361676;-71.04410036;Private room;105;2;0;0;0;37;118
-29542081;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33542009;-71.04601333;Private room;105;2;0;0;0;37;137
-29542279;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33602437;-71.04419645;Private room;105;2;0;0;0;37;139
-29542442;Quarters‚Ñ¢ on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33667983;-71.04605646;Private room;105;2;0;0;0;37;129
+29541836;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.3361676;-71.04410036;Private room;105;2;0;0;0;37;118
+29542081;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33542009;-71.04601333;Private room;105;2;0;0;0;37;137
+29542279;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33602437;-71.04419645;Private room;105;2;0;0;0;37;139
+29542442;Quartersô on DOT STRB - Private Room | Shared Bath;1444340;Will;0;South Boston;42.33667983;-71.04605646;Private room;105;2;0;0;0;37;129
 29542932;Reyes room one;213120699;Carlos;0;Mattapan;42.27068141;-71.07513101;Private room;80;2;1;2018-10-29;1;4;174
 29543282;Cozy in South End;44709453;Cecilia;0;South End;42.34359993;-71.06957324;Private room;56;1;5;2018-11-16;5;2;26
 29543795;Stylish Private Room in the Best Location;70346217;Nezzy;0;Brighton;42.33680612;-71.15030704;Private room;75;1;5;2018-11-10;5;5;207
@@ -6092,7 +6092,7 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29672671;1 Bedroom close to Fenway Park & Downtown Boston;222465244;Estefan;0;Jamaica Plain;42.32500657;-71.10599835;Shared room;40;1;1;2018-11-06;1;9;365
 29672850;GoLocal two bedroom luxury apartment!;223161573;Josh;0;Back Bay;42.34683543;-71.07929428;Entire home/apt;249;1;0;0;0;5;75
 29674251;Seaport, 1BR, with pool and washer/dryer in unit, close to Seaport Blv by blueground (10);107434423;Blueground;0;South Boston Waterfront;42.35265666;-71.04227135;Entire home/apt;134;30;0;0;0;27;364
-29677218;? Roof Deck 4 Couple‚Äôs Getaway Close to Everything;914769;Michael;0;East Boston;42.37809584;-71.0378041;Entire home/apt;165;1;2;2018-11-11;2;1;80
+29677218;? Roof Deck 4 Coupleís Getaway Close to Everything;914769;Michael;0;East Boston;42.37809584;-71.0378041;Entire home/apt;165;1;2;2018-11-11;2;1;80
 29680288;Quick commute to NEU + Harvard Med! Near Metro;136010789;Adam & Ben;0;Jamaica Plain;42.32356934;-71.11030669;Private room;35;30;0;0;0;9;47
 29680644;Seaport Luxe Condo Studio 3;8534462;Nadia;0;South Boston Waterfront;42.35191034;-71.04261463;Entire home/apt;199;2;0;0;0;56;353
 29682207;Stayloom's Charming Upscale Duplex | near T;42431392;Frank;0;Roxbury;42.32835446;-71.08726365;Entire home/apt;5000;1;0;0;0;7;341
@@ -6158,9 +6158,9 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29831275;Chic 1 bedroom in the heart of Boston;224391378;Carmen;0;Brighton;42.35087153;-71.16937627;Entire home/apt;250;1;1;2018-11-13;1;1;179
 29832209;#rainforest#cozy 2beds near Fenway BU Harvard andT;140724345;Lynia;0;Allston;42.34750242;-71.11652538;Private room;108;1;1;2018-11-07;1;1;35
 29833566;Private room-C with Queen size bed in Boston, MA;155439794;MichelleY;0;Brighton;42.35067856;-71.16546729;Private room;60;1;0;0;0;7;89
-29833651;Bina‚Äôs Home away from home 4;153568352;Sabina;0;Mattapan;42.27829741;-71.08681077;Private room;60;1;2;2018-11-14;2;5;86
+29833651;Binaís Home away from home 4;153568352;Sabina;0;Mattapan;42.27829741;-71.08681077;Private room;60;1;2;2018-11-14;2;5;86
 29834010;2 Bedroom close to Fenway Park & Downtown Boston;222465244;Estefan;0;Jamaica Plain;42.32531647;-71.10548268;Shared room;40;1;0;0;0;9;365
-29834290;HP1, This is NOT a room. It‚Äôs Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28169578;-71.06665673;Private room;10;1;0;0;0;11;364
+29834290;HP1, This is NOT a room. Itís Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28169578;-71.06665673;Private room;10;1;0;0;0;11;364
 29835278;3 Bedroom available Close Fenway & Downtown Boston;222465244;Estefan;0;Jamaica Plain;42.32543607;-71.10415554;Shared room;40;1;0;0;0;9;365
 29847830;Upscale 1-Bedroom Downtown Boston Apt + Pool;163251048;Jen;0;Chinatown;42.35245691;-71.06127267;Entire home/apt;499;3;0;0;0;62;342
 29848172;Posh Boston 1-BR Apt Near Boston Common!;163251048;Jen;0;Chinatown;42.35147542;-71.06138041;Entire home/apt;499;3;0;0;0;62;324
@@ -6183,10 +6183,10 @@ id;name;host_id;host_name;neighbourhood_group;neighbourhood;latitude;longitude;r
 29857331;4 Private Bedroom close Fenway & Downtown Boston;222465244;Estefan;0;Jamaica Plain;42.32556749;-71.10409992;Private room;140;1;0;0;0;9;365
 29857569;Private room-A with 2 beds in Boston, MA;155439794;MichelleY;0;Brighton;42.3499969;-71.16481353;Private room;55;1;0;0;0;7;84
 29857575;home on the heart of Boston;186530628;Mohammed;0;Brighton;42.34566063;-71.14093944;Private room;50;1;1;2018-11-11;1;1;365
-29858421;HP2, This is NOT a room. It‚Äôs Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28119905;-71.06597843;Private room;10;1;0;0;0;11;364
+29858421;HP2, This is NOT a room. Itís Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28119905;-71.06597843;Private room;10;1;0;0;0;11;364
 29858497;2 Bedroom close Fenway Park & Downtown Boston;221582971;Carmen;0;Jamaica Plain;42.32569318;-71.10527919;Shared room;45;1;0;0;0;10;365
 29858564;Room  close to Fenway park & Downtown Boston;221582971;Carmen;0;Jamaica Plain;42.32500278;-71.10529334;Shared room;45;1;0;0;0;10;365
-29858807;HP3, This is NOT a room. It‚Äôs Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28266033;-71.06437218;Private room;10;1;0;0;0;11;365
+29858807;HP3, This is NOT a room. Itís Only Parking/??????;30525952;Yueyang;0;Dorchester;42.28266033;-71.06437218;Private room;10;1;0;0;0;11;365
 29859238;Room  close to Fenway park & Downtown Boston;221582971;Carmen;0;Jamaica Plain;42.3251698;-71.10611022;Shared room;45;1;0;0;0;10;365
 29860189;Contemporary Home, Easy parking, Close to T;224570064;Hanqing;0;East Boston;42.38622703;-71.00378351;Private room;70;2;0;0;0;1;185
 29860624;Roxbury living;13107750;Gavin;0;Roxbury;42.32195965;-71.08030865;Private room;75;2;0;0;0;1;12

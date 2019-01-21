@@ -90,11 +90,11 @@ for bucket_info in name_columns_bucket :
     buckets = list(bucket_.unique())
     for bucket in buckets:
         dataset[bucket] = (bucket_ == bucket)*1.0
+    dataset.pop(bucket_info[0])
         
 #sns_plot = sns.pairplot(dataset[name_columns_numeric],  diag_kind="kde")
 #sns_plot.savefig("dataset.png")
 #plt.close()
-
 
 # Split Train and Test data    
 train_dataset = dataset.sample(frac=0.7,random_state=1)
