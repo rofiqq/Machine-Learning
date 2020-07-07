@@ -69,7 +69,7 @@ import tensorflow as tf
 tf.keras.backend.clear_session()
 
 # Make Model
-num_epochs = 20
+num_epochs = 10
 model = tf.keras.Sequential([
         tf.keras.layers.LSTM(8, return_sequences = False,
                              input_shape=(Xtrain.shape[1], Xtrain.shape[2])),
